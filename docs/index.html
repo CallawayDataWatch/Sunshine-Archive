@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Missouri Data Center Sunshine Archive</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Missouri Data Center Sunshine Archive</h1>
+  <p>Public records requests and responses related to data center development across Missouri. Maintained by Callaway Data Watch.</p>
+</header>
+<main>
+  <input type="text" id="search" placeholder="Search documents..." autofocus>
+  <div id="filters">
+    <select id="agency"><option value="">All agencies</option></select>
+    <select id="topic"><option value="">All topics</option></select>
+  </div>
+  <p id="count"></p>
+  <div id="results"></div>
+</main>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="search.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+  color: #222;
+}
+
+header {
+  border-bottom: 2px solid #444;
+  margin-bottom: 1rem;
+}
+
+#search {
+  width: 100%;
+  padding: .75rem;
+  font-size: 1.1rem;
+  border: 1px solid #888;
+  border-radius: 4px;
+}
+
+#filters {
+  display: flex;
+  gap: .5rem;
+  margin: .75rem 0;
+}
+
+select {
+  padding: .5rem;
+  flex: 1;
+}
+
+.result {
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.result h3 {
+  margin: 0 0 .25rem;
+}
+
+.meta {
+  color: #666;
+  font-size: .9rem;
+}
+
+.snippet {
+  margin-top: .5rem;
+  font-size: .95rem;
+}
