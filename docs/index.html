@@ -7,19 +7,38 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
 <header>
-  <h1>Missouri Data Center Sunshine Archive</h1>
-  <p>Public records requests and responses related to data center development across Missouri. Maintained by Callaway Data Watch.</p>
+  <img src="assets/CDW_Logo-04.png" alt="Callaway Data Watch logo" class="logo">
+  <h1>Missouri Data Center Sunshine Request Archive</h1>
+  <p>Public records requests and responses related to data center development across Missouri. Database maintained by Callaway Data Watch.</p>
 </header>
+
 <main>
   <input type="text" id="search" placeholder="Search documents..." autofocus>
+
   <div id="filters">
-    <select id="agency"><option value="">All agencies</option></select>
-    <select id="topic"><option value="">All topics</option></select>
+    <select id="agency">
+      <option value="">All agencies</option>
+    </select>
+    <select id="topic">
+      <option value="">All topics</option>
+    </select>
   </div>
+
   <p id="count"></p>
   <div id="results"></div>
 </main>
+
+<footer>
+  <p>Callaway Data Watch &middot; Government transparency for Missouri</p>
+  <p class="footer-links">
+    <a href="mailto:callawaydatawatch@gmail.com">Email us</a>
+    &middot;
+    <a href="https://www.facebook.com/groups/callawaydatawatch/" target="_blank">Facebook</a>
+  </p>
+</footer>
+
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <script src="search.js"></script>
 </body>
