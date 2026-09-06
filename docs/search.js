@@ -6,7 +6,7 @@ fetch('data/documents.json')
     docs = data;
     for (const d of docs) {
       try {
-        d.text = await (await fetch('text/' + d.filename.replace('.pdf', '.txt'))).text();
+        d.text = await (await fetch(encodeURI('text/' + d.filename.replace('.pdf', '.txt')))).text();
       } catch { d.text = ''; }
     }
     idx = lunr(function () {
