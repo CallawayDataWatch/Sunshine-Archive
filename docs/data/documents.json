@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "filename": "Preserve Callaway County Missouri LLC/2026-07-10-sheriff-maylee-response-to-cdw.pdf",
     "title": "Sheriff Maylee response to CDW questions on data center development, forwarded via Commissioner Scott",
     "date": "2026-07-10",
@@ -14,10 +14,10 @@
     "notes": "Sheriff Darryl Maylee dismisses CDW's list of questions/concerns on data center development, threatens a county ordinance under 192.300 targeting mentally unstable people, drug users, or criminals. Forwarded by Commissioner Christopher Scott."
   },
   {
-    "id": "2",
+    "id": 2,
     "filename": "mopo-001.pdf",
     "url": "https://archive.org/details/mopo-001",
-    "title": "Heather Tazalla (Crusoe) emails Callaway Commission — March 26, 2026",
+    "title": "Heather Tazalla (Crusoe) emails Callaway Commission; March 26, 2026",
     "date": "26-Mar-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -25,13 +25,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Heather Tazalla (Crusoe) emails Callaway Commission; brief scheduling exchange."
+    "notes": "Heather Tazalla (Crusoe) emails Callaway Commission; brief scheduling exchange.",
+    "needs_review": ""
   },
   {
-    "id": "3",
+    "id": 3,
     "filename": "mopo-002.pdf",
     "url": "https://archive.org/details/mopo-002",
-    "title": "Callaway Commission internal email — March 26, 2026",
+    "title": "Callaway Commission internal email; March 26, 2026",
     "date": "26-Mar-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -39,13 +40,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission internal note declining availability due to MAC Legislative Days (April 14-15)."
+    "notes": "Callaway Commission internal note declining availability due to MAC Legislative Days (April 14-15).",
+    "needs_review": ""
   },
   {
-    "id": "4",
+    "id": 4,
     "filename": "mopo-003.pdf",
     "url": "https://archive.org/details/mopo-003",
-    "title": "Callaway Commission responds to Crusoe team ahead of April meeting — March 27, 2026",
+    "title": "Callaway Commission responds to Crusoe team ahead of April meeting; March 27, 2026",
     "date": "27-Mar-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -53,13 +55,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission introduces Lucas Workman (Crusoe economic development/government affairs) to the group ahead of his April 14 Missouri visit."
+    "notes": "Callaway Commission introduces Lucas Workman (Crusoe economic development/government affairs) to the group ahead of his April 14 Missouri visit.",
+    "needs_review": ""
   },
   {
-    "id": "5",
+    "id": 5,
     "filename": "mopo-004.pdf",
     "url": "https://archive.org/details/mopo-004",
-    "title": "Crusoe team follows up with Callaway Commission on site visit planning — April 2, 2026",
+    "title": "Crusoe team follows up with Callaway Commission on site visit planning; April 2, 2026",
     "date": "2-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -67,13 +70,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Conor Bates-Janigo (Crusoe) follows up with Callaway Commission on site visit logistics; copies Tazalla, Workman, Brady, and George."
+    "notes": "Conor Bates-Janigo (Crusoe) follows up with Callaway Commission on site visit logistics; copies Tazalla, Workman, Brady, and George.",
+    "needs_review": ""
   },
   {
-    "id": "6",
+    "id": 6,
     "filename": "mopo-005.pdf",
     "url": "https://archive.org/details/mopo-005",
-    "title": "Callaway Commission confirms 9:30-10AM arrival time for Crusoe visit — April 2, 2026",
+    "title": "Callaway Commission confirms 9:30-10AM arrival time for Crusoe visit; April 2, 2026",
     "date": "2-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -81,13 +85,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission confirms Crusoe team will arrive around 9:30-10AM for the site visit."
+    "notes": "Callaway Commission confirms Crusoe team will arrive around 9:30-10AM for the site visit.",
+    "needs_review": ""
   },
   {
-    "id": "7",
+    "id": 7,
     "filename": "mopo-006.pdf",
     "url": "https://archive.org/details/mopo-006",
-    "title": "Callaway Commission confirms receipt of Crusoe meeting details — April 2, 2026",
+    "title": "Callaway Commission confirms receipt of Crusoe meeting details; April 2, 2026",
     "date": "2-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -95,13 +100,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission confirms receipt of Crusoe's meeting details."
+    "notes": "Callaway Commission confirms receipt of Crusoe's meeting details.",
+    "needs_review": ""
   },
   {
-    "id": "8",
+    "id": 8,
     "filename": "mopo-007.pdf",
     "url": "https://archive.org/details/mopo-007",
-    "title": "Calendar invite: Crusoe Follow Up meeting, Commission Office — April 2, 2026",
+    "title": "Calendar invite: Crusoe Follow Up meeting, Commission Office; April 2, 2026",
     "date": "14-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -109,12 +115,13 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Calendar record for a Crusoe Follow Up meeting at the Commission Office, 10 East 5th Street, Room 301, Fulton, MO."
+    "notes": "Calendar record for a Crusoe Follow Up meeting at the Commission Office, 10 East 5th Street, Room 301, Fulton, MO.",
+    "needs_review": ""
   },
   {
-    "id": "9",
+    "id": 9,
     "filename": "mopo-008.pdf",
-    "url": "",
+    "url": "https://archive.org/details/mopo-008",
     "title": "Crusoe introduces Lucas Workman to Callaway Commission",
     "date": "2-Apr-26",
     "agency": "Callaway County Commissioners",
@@ -123,13 +130,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Introduction of Lucas Workman (Crusoe) to the Commission, reiterating his April 14 Missouri visit and role on Crusoe's government affairs team."
+    "notes": "Introduction of Lucas Workman (Crusoe) to the Commission, reiterating his April 14 Missouri visit and role on Crusoe's government affairs team.",
+    "needs_review": ""
   },
   {
-    "id": "10",
+    "id": 10,
     "filename": "mopo-009.pdf",
-    "url": "",
-    "title": "Commissioner Christopher Scott accepts Crusoe follow-up meeting invite — April 2, 2026",
+    "url": "https://archive.org/details/mopo-009",
+    "title": "Commissioner Christopher Scott accepts Crusoe follow-up meeting invite; April 2, 2026",
     "date": "2-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Christopher Scott",
@@ -137,12 +145,13 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Commissioner Christopher Scott accepts the Crusoe Follow Up meeting invite."
+    "notes": "Commissioner Christopher Scott accepts the Crusoe Follow Up meeting invite.",
+    "needs_review": ""
   },
   {
-    "id": "11",
+    "id": 11,
     "filename": "mopo-010.pdf",
-    "url": "",
+    "url": "https://archive.org/details/mopo-010",
     "title": "Callaway Commission contact information and introduction to Crusoe team members",
     "date": "26-Mar-26",
     "agency": "Callaway County Commissioners",
@@ -151,13 +160,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission contact information (fax, email, website) shared alongside introduction of Lucas Workman to additional contacts (Brady, George)."
+    "notes": "Callaway Commission contact information (fax, email, website) shared alongside introduction of Lucas Workman to additional contacts (Brady, George).",
+    "needs_review": ""
   },
   {
-    "id": "12",
+    "id": 12,
     "filename": "mopo-011.pdf",
-    "url": "",
-    "title": "Callaway Commission responds to Crusoe scheduling request — April 2, 2026",
+    "url": "https://archive.org/details/mopo-011",
+    "title": "Callaway Commission responds to Crusoe scheduling request; April 2, 2026",
     "date": "2-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -165,13 +175,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission confirms the Crusoe Follow Up meeting invite."
+    "notes": "Callaway Commission confirms the Crusoe Follow Up meeting invite.",
+    "needs_review": ""
   },
   {
-    "id": "13",
+    "id": 13,
     "filename": "mopo-012.pdf",
-    "url": "",
-    "title": "Crusoe requests Commissioners travel to Abilene, TX for site tour — April 2026",
+    "url": "https://archive.org/details/mopo-012",
+    "title": "Crusoe requests Commissioners travel to Abilene, TX for site tour; April 2026",
     "date": "26-Mar-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -179,13 +190,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Commission states Commissioners are only available until 11:00am on April 14, and lists alternate travel dates (April 16-17 or April 20-21) for a site visit to Crusoe."
+    "notes": "Commission states Commissioners are only available until 11:00am on April 14, and lists alternate travel dates (April 16-17 or April 20-21) for a site visit to Crusoe.",
+    "needs_review": ""
   },
   {
-    "id": "14",
+    "id": 14,
     "filename": "mopo-013.pdf",
-    "url": "",
-    "title": "Heather Tazalla (Crusoe) replies regarding Commissioners' travel availability — March 27, 2026",
+    "url": "https://archive.org/details/mopo-013",
+    "title": "Heather Tazalla (Crusoe) replies regarding Commissioners' travel availability; March 27, 2026",
     "date": "27-Mar-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -193,13 +205,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Heather Tazalla (Crusoe) replies to the Commission's stated availability, restating the same April 14/16-17/20-21 windows."
+    "notes": "Heather Tazalla (Crusoe) replies to the Commission's stated availability, restating the same April 14/16-17/20-21 windows.",
+    "needs_review": ""
   },
   {
-    "id": "15",
+    "id": 15,
     "filename": "mopo-014.pdf",
-    "url": "",
-    "title": "Callaway Commission discusses stakeholder meeting logistics with Crusoe team — April 3, 2026",
+    "url": "https://archive.org/details/mopo-014",
+    "title": "Callaway Commission discusses stakeholder meeting logistics with Crusoe team; April 3, 2026",
     "date": "3-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -207,13 +220,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission thanks Heather Tazalla for clarifying meeting details; copies Bates-Janigo, Workman, Brady, George."
+    "notes": "Callaway Commission thanks Heather Tazalla for clarifying meeting details; copies Bates-Janigo, Workman, Brady, George.",
+    "needs_review": ""
   },
   {
-    "id": "16",
+    "id": 16,
     "filename": "mopo-015.pdf",
-    "url": "",
-    "title": "Callaway Commission thanks Crusoe team for clarification — April 3, 2026",
+    "url": "https://archive.org/details/mopo-015",
+    "title": "Callaway Commission thanks Crusoe team for clarification; April 3, 2026",
     "date": "3-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -221,13 +235,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission thanks \"Myra\" and Heather Tazalla; copies same Crusoe team members."
+    "notes": "Callaway Commission thanks \"Myra\" and Heather Tazalla; copies same Crusoe team members.",
+    "needs_review": ""
   },
   {
-    "id": "17",
+    "id": 17,
     "filename": "mopo-016.pdf",
-    "url": "",
-    "title": "Callaway Commission asks Crusoe about meeting time for the 22nd — April 3, 2026",
+    "url": "https://archive.org/details/mopo-016",
+    "title": "Callaway Commission asks Crusoe about meeting time for the 22nd; April 3, 2026",
     "date": "3-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -235,12 +250,13 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission asks what time the meeting will be on the 22nd; copies same group."
+    "notes": "Callaway Commission asks what time the meeting will be on the 22nd; copies same group.",
+    "needs_review": ""
   },
   {
-    "id": "18",
+    "id": 18,
     "filename": "mopo-017.pdf",
-    "url": "",
+    "url": "https://archive.org/details/mopo-017",
     "title": "Crusoe discusses site visit logistics and stakeholder group scheduling",
     "date": "3-Apr-26",
     "agency": "Callaway County Commissioners",
@@ -249,13 +265,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Discussion of logistics for a site visit, referencing coordination with Commissioner Jungermann and a request for dates that would work for a larger group tour."
+    "notes": "Discussion of logistics for a site visit, referencing coordination with Commissioner Jungermann and a request for dates that would work for a larger group tour.",
+    "needs_review": ""
   },
   {
-    "id": "19",
+    "id": 19,
     "filename": "mopo-018.pdf",
-    "url": "",
-    "title": "Heather Tazalla (Crusoe) discusses stakeholder meeting timing with Commission — April 3, 2026",
+    "url": "https://archive.org/details/mopo-018",
+    "title": "Heather Tazalla (Crusoe) discusses stakeholder meeting timing with Commission; April 3, 2026",
     "date": "3-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -263,13 +280,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Heather Tazalla (Crusoe) discusses stakeholder group meeting timing, noting Commissioners had a view on scheduling."
+    "notes": "Heather Tazalla (Crusoe) discusses stakeholder group meeting timing, noting Commissioners had a view on scheduling.",
+    "needs_review": ""
   },
   {
-    "id": "20",
+    "id": 20,
     "filename": "mopo-019.pdf",
-    "url": "",
-    "title": "Heather Tazalla (Crusoe) follows up with Callaway Commission — April 6, 2026",
+    "url": "https://archive.org/details/mopo-019",
+    "title": "Heather Tazalla (Crusoe) follows up with Callaway Commission; April 6, 2026",
     "date": "6-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -277,13 +295,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Heather Tazalla (Crusoe) follows up with Callaway Commission and same Crusoe team."
+    "notes": "Heather Tazalla (Crusoe) follows up with Callaway Commission and same Crusoe team.",
+    "needs_review": ""
   },
   {
-    "id": "21",
+    "id": 21,
     "filename": "mopo-020.pdf",
-    "url": "",
-    "title": "Callaway Commission internal email — April 6, 2026",
+    "url": "https://archive.org/details/mopo-020",
+    "title": "Callaway Commission internal email; April 6, 2026",
     "date": "6-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -291,13 +310,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission internal note, no substantial body text."
+    "notes": "Callaway Commission internal note, no substantial body text.",
+    "needs_review": ""
   },
   {
-    "id": "22",
+    "id": 22,
     "filename": "mopo-021.pdf",
-    "url": "",
-    "title": "Commissioner Gary Jungermann accepts Crusoe follow-up meeting invite — April 8, 2026",
+    "url": "https://archive.org/details/mopo-021",
+    "title": "Commissioner Gary Jungermann accepts Crusoe follow-up meeting invite; April 8, 2026",
     "date": "8-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Gary Jungermann",
@@ -305,13 +325,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Commissioner Gary Jungermann accepts the Crusoe Follow Up meeting invite."
+    "notes": "Commissioner Gary Jungermann accepts the Crusoe Follow Up meeting invite.",
+    "needs_review": ""
   },
   {
-    "id": "23",
+    "id": 23,
     "filename": "mopo-022.pdf",
-    "url": "",
-    "title": "Callaway Commission relays public inquiries about upcoming meeting to Tamara Tateosian — April 13, 2026",
+    "url": "https://archive.org/details/mopo-022",
+    "title": "Callaway Commission relays public inquiries about upcoming meeting to Tamara Tateosian; April 13, 2026",
     "date": "13-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -319,13 +340,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission relays to Tamara Tateosian that Gary Jungermann is fielding calls from the Electric Company and Water District about the meeting, and needs a confirmed time for the 22nd."
+    "notes": "Callaway Commission relays to Tamara Tateosian that Gary Jungermann is fielding calls from the Electric Company and Water District about the meeting, and needs a confirmed time for the 22nd.",
+    "needs_review": ""
   },
   {
-    "id": "24",
+    "id": 24,
     "filename": "mopo-023.pdf",
-    "url": "",
-    "title": "Callaway Commission responds to Conor Bates-Janigo (Crusoe) meeting request — April 15, 2026",
+    "url": "https://archive.org/details/mopo-023",
+    "title": "Callaway Commission responds to Conor Bates-Janigo (Crusoe) meeting request; April 15, 2026",
     "date": "15-Apr-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -333,13 +355,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission responds to Conor Bates-Janigo's (Crusoe) meeting request."
+    "notes": "Callaway Commission responds to Conor Bates-Janigo's (Crusoe) meeting request.",
+    "needs_review": ""
   },
   {
-    "id": "25",
+    "id": 25,
     "filename": "mopo-024.pdf",
-    "url": "",
-    "title": "Lucas Workman (Crusoe) emails Commissioner Gary Jungermann — May 5, 2026",
+    "url": "https://archive.org/details/mopo-024",
+    "title": "Lucas Workman (Crusoe) emails Commissioner Gary Jungermann; May 5, 2026",
     "date": "5-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -347,12 +370,13 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Lucas Workman (Crusoe) emails Commissioner Gary Jungermann; copies Jody Paschal and Allen Storm."
+    "notes": "Lucas Workman (Crusoe) emails Commissioner Gary Jungermann; copies Jody Paschal and Allen Storm.",
+    "needs_review": ""
   },
   {
-    "id": "26",
+    "id": 26,
     "filename": "mopo-025.pdf",
-    "url": "",
+    "url": "https://archive.org/details/mopo-025",
     "title": "Callaway Commission forwards Crusoe Chapter 100 bond proposal",
     "date": "11-May-26",
     "agency": "Callaway County Commissioners",
@@ -361,13 +385,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission forwards a file titled \"Crusoe_Chapter100_Proposal_CallawayCounty.pdf.\""
+    "notes": "Callaway Commission forwards a file titled \"Crusoe_Chapter100_Proposal_CallawayCounty.pdf.\"",
+    "needs_review": ""
   },
   {
-    "id": "27",
+    "id": 27,
     "filename": "mopo-026.pdf",
-    "url": "",
-    "title": "Crusoe Technologies formally requests Chapter 100 Industrial Development Bond agreement — May 8, 2026",
+    "url": "https://archive.org/details/mopo-026",
+    "title": "Crusoe Technologies formally requests Chapter 100 Industrial Development Bond agreement; May 8, 2026",
     "date": "8-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -375,13 +400,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Crusoe Technologies LLC formally submits a request to Callaway County Commissioners for a Chapter 100 Industrial Development Revenue Bond agreement, dated May 8, 2026."
+    "notes": "Crusoe Technologies LLC formally submits a request to Callaway County Commissioners for a Chapter 100 Industrial Development Revenue Bond agreement, dated May 8, 2026.",
+    "needs_review": ""
   },
   {
-    "id": "28",
+    "id": 28,
     "filename": "mopo-027.pdf",
-    "url": "",
-    "title": "Callaway Commission circulates tax abatement documents (85% Public versions) — May 11, 2026",
+    "url": "https://archive.org/details/mopo-027",
+    "title": "Callaway Commission circulates tax abatement documents (85% Public versions); May 11, 2026",
     "date": "11-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -389,12 +415,13 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Callaway Commission circulates two versions of a \"85% Public\" tax abatement document; Heather Tazalla and Conor Bates-Janigo copied."
+    "notes": "Callaway Commission circulates two versions of a \"85% Public\" tax abatement document; Heather Tazalla and Conor Bates-Janigo copied.",
+    "needs_review": ""
   },
   {
-    "id": "29",
+    "id": 29,
     "filename": "mopo-028.pdf",
-    "url": "",
+    "url": "https://archive.org/details/mopo-028",
     "title": "Heather Tazalla (Crusoe) asks Commissioner Jungermann about fencing example",
     "date": "11-May-26",
     "agency": "Callaway County Commissioners",
@@ -403,13 +430,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Heather Tazalla (Crusoe) asks Commissioner Jungermann for help locating a fencing example/precedent image."
+    "notes": "Heather Tazalla (Crusoe) asks Commissioner Jungermann for help locating a fencing example/precedent image.",
+    "needs_review": ""
   },
   {
-    "id": "30",
+    "id": 30,
     "filename": "mopo-029.pdf",
-    "url": "",
-    "title": "Lucas Workman (Crusoe) sends tax revenue estimates to Commission and Jungermann — May 8, 2026",
+    "url": "https://archive.org/details/mopo-029",
+    "title": "Lucas Workman (Crusoe) sends tax revenue estimates to Commission and Jungermann; May 8, 2026",
     "date": "8-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -417,12 +445,13 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Lucas Workman (Crusoe) sends tax revenue estimates to Jungermann, Callaway Commission, Tazalla, and Bates-Janigo."
+    "notes": "Lucas Workman (Crusoe) sends tax revenue estimates to Jungermann, Callaway Commission, Tazalla, and Bates-Janigo.",
+    "needs_review": ""
   },
   {
-    "id": "31",
+    "id": 31,
     "filename": "mopo-030.pdf",
-    "url": "",
+    "url": "https://archive.org/details/mopo-030",
     "title": "Crusoe tax revenue estimate: total new tax revenue post-abatement",
     "date": "8-May-26",
     "agency": "Callaway County Commissioners",
@@ -431,13 +460,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Tax revenue estimate document showing total new tax revenue post-abatement, referencing Callaway County personal property and library figures."
+    "notes": "Tax revenue estimate document showing total new tax revenue post-abatement, referencing Callaway County personal property and library figures.",
+    "needs_review": ""
   },
   {
-    "id": "32",
+    "id": 32,
     "filename": "mopo-031.pdf",
-    "url": "",
-    "title": "Calendar invite: Crusoe & GJ Call accepted — May 11, 2026",
+    "url": "https://archive.org/details/mopo-031",
+    "title": "Calendar invite: Crusoe & GJ Call accepted; May 11, 2026",
     "date": "11-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -445,13 +475,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Calendar confirmation for a \"Crusoe & GJ Call.\""
+    "notes": "Calendar confirmation for a \"Crusoe & GJ Call.\"",
+    "needs_review": ""
   },
   {
-    "id": "33",
+    "id": 33,
     "filename": "mopo-032.pdf",
-    "url": "",
-    "title": "Callaway Commission confirms Crusoe & GJ Call — May 11, 2026",
+    "url": "https://archive.org/details/mopo-032",
+    "title": "Callaway Commission confirms Crusoe & GJ Call; May 11, 2026",
     "date": "11-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -459,13 +490,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Duplicate calendar confirmation for the same \"Crusoe & GJ Call.\""
+    "notes": "Duplicate calendar confirmation for the same \"Crusoe & GJ Call.\"",
+    "needs_review": ""
   },
   {
-    "id": "34",
+    "id": 34,
     "filename": "mopo-033.pdf",
-    "url": "",
-    "title": "Commissioner Christopher Scott accepts Crusoe & GJ Call invite — May 11, 2026",
+    "url": "https://archive.org/details/mopo-033",
+    "title": "Commissioner Christopher Scott accepts Crusoe & GJ Call invite; May 11, 2026",
     "date": "11-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Christopher Scott",
@@ -473,13 +505,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Commissioner Christopher Scott accepts the \"Crusoe & GJ Call\" invite."
+    "notes": "Commissioner Christopher Scott accepts the \"Crusoe & GJ Call\" invite.",
+    "needs_review": ""
   },
   {
-    "id": "35",
+    "id": 35,
     "filename": "mopo-034.pdf",
-    "url": "",
-    "title": "Christopher Ward Scott accepts Crusoe & GJ Call invite — May 14, 2026 (verify identity)",
+    "url": "https://archive.org/details/mopo-034",
+    "title": "Christopher Ward Scott accepts Crusoe & GJ Call invite; May 14, 2026 (verify identity)",
     "date": "14-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Christopher Ward Scott",
@@ -487,13 +520,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Christopher Ward Scott (email signature indicates Farmers Financial Solutions/insurance, not confirmed as Commissioner Christopher Scott) accepts the same call invite. NEEDS REVIEW: possible name confusion with Commissioner Christopher Scott, verify before treating as an official Commission communication."
+    "notes": "Christopher Ward Scott (email signature indicates Farmers Financial Solutions/insurance, not confirmed as Commissioner Christopher Scott) accepts the same call invite. NEEDS REVIEW: possible name confusion with Commissioner Christopher Scott, verify before treating as an official Commission communication.",
+    "needs_review": ""
   },
   {
-    "id": "36",
+    "id": 36,
     "filename": "mopo-035.pdf",
-    "url": "",
-    "title": "Meeting forwarded: Crusoe & GJ Call, forwarded by Christopher Scott — May 15, 2026",
+    "url": "https://archive.org/details/mopo-035",
+    "title": "Meeting forwarded: Crusoe & GJ Call, forwarded by Christopher Scott; May 15, 2026",
     "date": "15-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -501,13 +535,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Notification that the \"Crusoe & GJ Call\" meeting was forwarded by Christopher Scott."
+    "notes": "Notification that the \"Crusoe & GJ Call\" meeting was forwarded by Christopher Scott.",
+    "needs_review": ""
   },
   {
-    "id": "37",
+    "id": 37,
     "filename": "mopo-036.pdf",
-    "url": "",
-    "title": "Crusoe & GJ Call canceled — May 15, 2026",
+    "url": "https://archive.org/details/mopo-036",
+    "title": "Crusoe & GJ Call canceled; May 15, 2026",
     "date": "15-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -515,13 +550,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "The \"Crusoe & GJ Call\" meeting is canceled."
+    "notes": "The \"Crusoe & GJ Call\" meeting is canceled.",
+    "needs_review": ""
   },
   {
-    "id": "38",
+    "id": 38,
     "filename": "mopo-037.pdf",
-    "url": "",
-    "title": "Lucas Workman (Crusoe) follows up with Commissioner Jungermann re: Abilene Chamber — May 18, 2026",
+    "url": "https://archive.org/details/mopo-037",
+    "title": "Lucas Workman (Crusoe) follows up with Commissioner Jungermann re: Abilene Chamber; May 18, 2026",
     "date": "18-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Crusoe AI",
@@ -529,13 +565,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Lucas Workman (Crusoe) follows up with Jungermann, referencing a phone call and the Abilene Chamber of Commerce. INCOMPLETE PRODUCTION: this document's printed page numbers read \"6\" and \"7,\" indicating approximately 5 preceding pages were not included in what MOPO received under this Sunshine request."
+    "notes": "Lucas Workman (Crusoe) follows up with Jungermann, referencing a phone call and the Abilene Chamber of Commerce. INCOMPLETE PRODUCTION: this document's printed page numbers read \"6\" and \"7,\" indicating approximately 5 preceding pages were not included in what MOPO received under this Sunshine request.",
+    "needs_review": ""
   },
   {
-    "id": "39",
+    "id": 39,
     "filename": "mopo-038.pdf",
-    "url": "",
-    "title": "Calendar invite: Crusoe & GJ Call, Google Meet — May 22, 2026",
+    "url": "https://archive.org/details/mopo-038",
+    "title": "Calendar invite: Crusoe & GJ Call, Google Meet; May 22, 2026",
     "date": "22-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Gary Jungermann",
@@ -543,13 +580,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Calendar record for a \"Crusoe & GJ Call\" via Google Meet, May 22, 2026."
+    "notes": "Calendar record for a \"Crusoe & GJ Call\" via Google Meet, May 22, 2026.",
+    "needs_review": ""
   },
   {
-    "id": "40",
+    "id": 40,
     "filename": "mopo-039.pdf",
-    "url": "",
-    "title": "Crusoe & GJ Call meeting status update — May 22, 2026",
+    "url": "https://archive.org/details/mopo-039",
+    "title": "Crusoe & GJ Call meeting status update; May 22, 2026",
     "date": "22-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Gary Jungermann",
@@ -557,13 +595,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Duplicate calendar record, same \"Crusoe & GJ Call,\" Google Meet."
+    "notes": "Duplicate calendar record, same \"Crusoe & GJ Call,\" Google Meet.",
+    "needs_review": ""
   },
   {
-    "id": "41",
+    "id": 41,
     "filename": "mopo-040.pdf",
-    "url": "",
-    "title": "Updated invitation: Crusoe & GJ Call — May 22, 2026",
+    "url": "https://archive.org/details/mopo-040",
+    "title": "Updated invitation: Crusoe & GJ Call; May 22, 2026",
     "date": "22-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Gary Jungermann",
@@ -571,13 +610,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Updated calendar invitation for the \"Crusoe & GJ Call,\" including Jungermann's county email."
+    "notes": "Updated calendar invitation for the \"Crusoe & GJ Call,\" including Jungermann's county email.",
+    "needs_review": ""
   },
   {
-    "id": "42",
+    "id": 42,
     "filename": "mopo-041.pdf",
-    "url": "",
-    "title": "Crusoe & GJ Call, Google Meet — May 22, 2026",
+    "url": "https://archive.org/details/mopo-041",
+    "title": "Crusoe & GJ Call, Google Meet; May 22, 2026",
     "date": "22-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Gary Jungermann",
@@ -585,13 +625,14 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Duplicate calendar record, same \"Crusoe & GJ Call,\" Google Meet."
+    "notes": "Duplicate calendar record, same \"Crusoe & GJ Call,\" Google Meet.",
+    "needs_review": ""
   },
   {
-    "id": "43",
+    "id": 43,
     "filename": "mopo-042.pdf",
-    "url": "",
-    "title": "Sunshine Request Invoice: Hanna Rustemeyer — May 15, 2026",
+    "url": "https://archive.org/details/mopo-042",
+    "title": "Sunshine Request Invoice: Hanna Rustemeyer; May 15, 2026",
     "date": "15-May-26",
     "agency": "Callaway County Commissioners",
     "author": "Callaway Commission",
@@ -599,6 +640,7 @@
     "request_type": "Sunshine Request",
     "topic": "Data Center",
     "status": "Received",
-    "notes": "Sunshine Request invoice billed to Hanna Rustemeyer, Callaway County, dated May 15, 2026, flat labor fee of $58.00. NOTABLE: this fee is dramatically lower than what Callaway County Commission charged Preserve Callaway County Missouri LLC and Callaway Data Watch for comparable Sunshine requests, raising a fee disparity/potential discriminatory pricing question in how the Commission processes public records requests depending on the requester."
+    "notes": "Sunshine Request invoice billed to Hanna Rustemeyer, Callaway County, dated May 15, 2026, flat labor fee of $58.00. NOTABLE: this fee is dramatically lower than what Callaway County Commission charged Preserve Callaway County Missouri LLC and Callaway Data Watch for comparable Sunshine requests, raising a fee disparity/potential discriminatory pricing question in how the Commission processes public records requests depending on the requester.",
+    "needs_review": ""
   }
 ]
