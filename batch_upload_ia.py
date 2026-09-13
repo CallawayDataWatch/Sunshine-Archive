@@ -38,11 +38,11 @@ import subprocess
 # Seconds to wait between each upload attempt (only applies to files
 # that actually need uploading, not ones that are skipped because they
 # already exist on Internet Archive).
-DELAY_BETWEEN_UPLOADS = 60
+DELAY_BETWEEN_UPLOADS = 5
 
 # If a rate-limit error is hit, wait this many seconds before retrying
 # the same file, doubling each additional retry.
-RATE_LIMIT_RETRY_BASE_SECONDS = 60
+RATE_LIMIT_RETRY_BASE_SECONDS = 5
 MAX_RETRIES_PER_FILE = 4
 
 
