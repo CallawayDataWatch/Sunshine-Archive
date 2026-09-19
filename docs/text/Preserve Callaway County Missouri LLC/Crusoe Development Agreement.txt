@@ -1,0 +1,1080 @@
+DEVELOPMENT AGREEMENT 
+
+| 
+
+THIS DEVELOPMENT AGREEMENT (this  “Agreement”)  is  made and  entered into  this 
+day  of 
+,  2026  (the  “Effective  Date”),  by  and  between  the  Board  of  County 
+Commissioners  for  Jasper  County,  Missouri  (“County”)  and  [Special  Project  Entity],  a  [State] 
+limited ability  company  (“Developer”).  The  County  and  Developer  are  sometimes  referred  to 
+herein  individually as  a  “Party”  and  collectively  as  the  “Parties”. 
+
+RECITALS 
+
+WHEREAS, Developer  controls  approximately  two  hundred  and  twelve  (212)  acres  of 
+unimproved  real  property  located  in  the  County,  as  legally  described  on  the  attached  Exhibit  A 
+(the  “Property’’); 
+
+WHEREAS, Developer is  developing a  data center facility, consisting  of one  or more  data 
+center buildings,  a private  substation, and  other facilities  for the delivery of power to and operation, 
+maintenance  and replacement,  from time  to time, of computer systems  and associated  components, 
+
+such  as  telecommunications  and storage  systems,  cooling  systems,  power supplies  and  systems  for 
+
+managing  property  performance  (including  generators),  and  related 
+
+improvements  such  as 
+
+equipment  used  for  distribution  and  management  of electricity,  internet-related  equipment,  data 
+
+communications  connections,  environmental  controls  and  security  devices,  structures  and  site 
+
+features,  as  well  as  accessory  uses  or  buildings  reasonably  related to  data centers,  including  non- 
+
+permanent  structures  to  support  construction  efforts,  including  job  trailers,  housing  and  support 
+
+buildings  for  construction  (the  “Project’’)  to be  located  on privately-owned  land  within  that part 
+
+of the  County  shown on the  attached  Exhibit  B  (the  “Project Boundary’’);  and 
+
+WHEREAS,  the  County  intends,  through  this  Agreement,  to  consider  the  orderly 
+
+development,  construction,  operation,  and  maintenance  of the  Project  in  the  County, pursuant  to 
+the  terms  and  conditions  set  forth  in this  Agreement;  and 
+
+WHEREAS, upon execution  of this  Agreement,  the  County acknowledges and agrees  that 
+all  County  permits  and  approvals  required  for  the  Project  have  been  granted  and  substantial 
+amounts  of work have been  completed; 
+
+NOW, THEREFORE, in consideration of the mutual covenants,  agreements,  and  promises 
+herein  contained  and  other  good  and valuable  consideration  the receipt  and  sufÏciency  of which 
+are  hereby acknowledge, the  Parties  agree as  follows: 
+
+I. 
+
+RECITALS 
+
+The  recitals  set  forth  above  constitute  a  material  part  of this  Agreement  and  are  incorporated 
+herein.  The  Parties  confirm  the  accuracy,  truth  and  validity of said  recitals. 
+
+2. 
+
+COUNTY APPROVAL AND FUTURE COOPERATION 
+
+a. 
+
+COUNTY CONSENTS AND APPROVALS. 
+
+110145436.7 
+
+1. 
+
+Unless  otherwise  provided  herein,  whenever the  consents  or  approvals  of 
+the  County, or any of its  employees,  consultants,  attorneys,  ofÏcers,  agents, 
+or representatives  are required  to be secured or obtained by Developer under 
+the  provisions  of  this  Agreement,  the  same  shall  not  be  unreasonably 
+conditioned,  withheld,  or  delayed.  The  County  will  reasonably  cooperate 
+with  Developer 
+construction,  operation,  and 
+maintenance,  of  the  Project  and 
+issue  all  permits,  approvals,  and 
+authorizations  required  by  local  regulations  or  other  law,  if any,  provided 
+Developer  files  compliant  applications,  pays  all  applicable 
+fees,  and 
+complies  with  all  the  requirements  specified  in  this  Agreement. 
+
+the  development, 
+
+in 
+
+ll. 
+
+The  County  acknowledges,  understands  and  agrees  that  the  development 
+
+process  associated  with the  Project will  take  significant  time  and requires  a 
+
+substantial  investment  by the  Developer. Therefore,  in  order  to  induce  the 
+
+Developer  to  make  this  commitment  and  investment,  the  County  hereby 
+
+agrees  that  it  approves  and  authorizes  the  Developer  to  construct  and 
+
+operate  the  Project  in  the  County.  The  County  acknowledges,  understands 
+
+and  agrees 
+
+that 
+
+the  Developer  will  undertake  significant  financial 
+
+investment  in reasonable  reliance  on  the  County’s  promises  and obligations 
+
+under  the  Definitive  Agreements.  The  County  agrees  that  the  Developer’s 
+
+rights  to  construct  and  operate  the  Project  for  the  stated  use  vest  upon  the 
+
+execution  of this  Agreement.  The  County  acknowledges  and  agrees  that 
+
+there  are  currently  no  local  laws,  requirements,  regulations,  permits,  or 
+
+approvals  applicable  to  the  construction  or  operation  of  the  Project.  The 
+County  agrees  that  if  at  any  time  in  the  future  any  laws,  requirements, 
+
+regulations,  permits  or approvals  are  enacted  that  would  otherwise  prevent 
+or limit  the  Developer’s construction  or operation  of the  Project,  the  Project 
+shall  be  grandfathered  for  purposes  of compliance  with  such  future  laws, 
+requirements,  regulations,  permits,  or  approvals  and  the  Project  shall  be 
+allowed  to  be  developed  or  to  continue  operations  in  the  County.  In  the 
+event the County adopts  zoning regulations,  the County  shall provide in said 
+zoning  regulations  that  the  use  of  the  Property  for  the  Project  and  the 
+operation  of the  Project  shall  be  vested.  The County shall  expressly  exempt 
+or exclude the  Project  from any  future  franchise  fees  or similar  assessments 
+that  could potentially  impact  the  Project. 
+
+FUTURE COOPERATION.  The  Parties  shall  cooperate  with  one  another  on  an 
+ongoing  basis  and  shall  make  every  reasonable  effort  (including  the  holding  of 
+hearings  or  meetings  and the  adoption  of such  resolutions  as  may  be necessary)  to 
+further  the  implementation  of this  Agreement  and  the  intentions  of the  Parties  as 
+reflected  by  the  provisions  of this  Agreement.  Without  limiting  the  foregoing,  in 
+the  event that  the  County  adopts  any  zoning  or other  laws  after  the  Effective  Date 
+that would make the development,  construction,  operation,  repair, replacement,  and 
+maintenance  of the  Project  a  nonconforming  use  under  such  zoning  or  other  laws, 
+or  that  would otherwise  materially  interfere  with  such  development,  construction, 
+operation, 
+the 
+decommissioning  of the  Project,  the  County  agrees  that  it  will  take  such  actions, 
+
+repair,  replacement,  and  maintenance  of  the  Project,  or 
+
+110145436.7 
+
+pa 
+
+adopt  such  ordinances  and  do  such  other  things  as  are  necessary  to  exempt  or 
+exclude  the  Property  and  the  Project  from  such  zoning  or  other  laws.  The County 
+acknowledges  and  agrees  that,  upon  execution  of  this  Agreement,  all  County 
+permits  and approvals  required  for  the  Project  have been  granted.  The Parties  shall 
+negotiate  in  good  faith  the  use  of tax  certainty  and  incentive  programs,  including 
+by way of example  and not limitation  the  Chapter  100 bond program,  to  assist  with 
+the  tax  treatment  of the  Project,  subject  to  the  requirements  of applicable  law  and 
+all  statutorily  mandated  legislative  approvals 
+
+3. 
+
+TERM 
+
+Unless  extended by mutual agreement  of the Parties,  earlier  terminated, or the Project  ceases  to be 
+
+in  commercial  operation,  the  terms  set  forth in  this  Agreement  and  all  County  approvals  relating 
+
+thereto  shall  extend  for a period  of fifty (50) years  from the  Effective Date. 
+
+4. 
+
+DEVELOPMENT REQUIREMENTS 
+
+a. 
+
+DEFINITIVE  AGREEMENTS.  Concurrently  with 
+
+the  execution  of  this 
+
+Agreement,  Developer  shall  enter 
+
+into  a  Road  Use  Agreement  (“Road  Use 
+
+Agreement’)  with  the  County  regarding  the  Project  (collectively  with  this 
+
+Agreement,  the  “Definitive  Agreements’’). 
+
+By 
+
+SITING TERMS. 
+
+1. 
+
+Setbacks.  The  Project  shall  comply  with  the  following  setbacks.  The 
+
+exterior  walls  of any  data  center  buildings  shall  be  set  back a  minimum  of 
+
+25  feet  from  public  roads  and  from  the  property 
+
+lines  of  any  non- 
+
+participating  parcels  that  are  used primarily  for residential  purposes.  There 
+
+will  be  a  minimum  15-foot  setback  requirement  from  the  property  line  for 
+
+all  other  adjacent  uses.  As  used  in  this  Agreement,  the  terms  “non- 
+participant”  and  “non-participating”  shall  describe  those  persons  and  their 
+respective  property with  whom Developer  or its  afÏliates  or assigns  has  not 
+
+entered  into  any  such  contractual  agreements  for  the  benefit  of the  Project. 
+The  setbacks  and  height  requirements  set  forth  in  this  Agreement  can  be 
+
+modified  with the  written  consent  of both  Developer and  the  County. 
+
+Lighting.  Developer  shall  minimize  the  number  of street  lights,  building 
+lighting  and lighting  surrounding  the  Project to  the  extent practical. 
+
+Fencing.  Developer shall  enclose  the  Project with a security  fence  of at least 
+8  feet  in  height.  The  fencing  may  consist  of materials  including,  but  not 
+
+limited  to,  iron  and  barbed  wire,  chain  link,  or  wrought  tron.  Developer 
+
+shall,  throughout  the  Term,  reasonably  maintain  any  fencing 
+
+it  or  its 
+
+11. 
+
+ll. 
+
+afÏliates  erect. 
+
+C. 
+
+UTILITIES. 
+
+1. 
+
+Water  and Wastewater. 
+
+110145436.7 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Developer  shall  comply  with  applicable  Missouri  law  governing 
+water  withdrawal,  use,  and  supply, 
+including  any  applicable 
+Missouri  Department  of  Natural  Resources  requirements  and,  if 
+applicable,  Major  Water  User 
+reporting 
+requirements. 
+
+registration 
+
+and 
+
+Developer  shall  develop a  data  center  that  is  “air-cooled,”  meaning 
+that  any  process  cooling  water  shall  be  in  a  closed  loop  system 
+which is  cooled by fan-driven  air, not  water. 
+
+Developer  shall  pay for  all  on-site  and off-site  upgrades  required  to 
+provide  water and  wastewater utility  service  to  the  Project. 
+
+MAINTENANCE. Developer  shall  cause  the  Project,  and  all  parts  thereof,  the 
+Project  Site  and  all other  of its  property  used or useful  in  the  conduct  of its  business 
+and  operations  on  the  Project  Site,  to  be  maintained,  preserved  and  kept  in  good 
+repair  and working  order  and  in  a  safe  condition,  consistent  at  all  times  with other 
+comparably-situated  similar  data  center  space  in  the  State  of Missouri,  and  shall 
+make  all  repairs,  renewals,  replacements  and  improvements  necessary  for  the  safe, 
+efÏcient,  and  advantageous  conduct  of its  business  and  operations  on  the  Project 
+Site.  Developer  may  elect  to  construct  additional  buildings  for  the  Project  within 
+
+the  Property. 
+
+INSURANCE. Developer shall,  upon commencement  of construction  of the  Project 
+
+and  for  the  period  of construction  of the  Project,  maintain  in  full  force  and  effect, 
+
+commercial  general  liability 
+
+insurance,  naming  Callaway  County  as  additional 
+
+insured, 
+
+in  the  aggregate  amount  equal  to  five  million  Dollars  ($5,000,000). 
+
+Developer  may  utilize  any  combination  of  primary  and/or  excess  insurance  to 
+
+satisfy  this  requirement  and may  satisfy  this  requirement  under  existing  insurance 
+
+policies  for  the  Project.  Upon  written  request  by  the  County,  Developer  shall 
+
+provide a  certificate  of insurance  evidencing  the  insurance  limits  and  coverage  to 
+
+County. 
+
+EMERGENCY  SERVICES,  FIRE  PROTECTION,  AND  HAZARDOUS 
+
+MATERIALS. 
+
+1. 
+
+Developer  or  its  afÏliate  shall  work  in  cooperation  with  the  Callaway 
+
+County  Emergency  Management  Director  to  establish  standards  for  fire 
+
+protection  and  emergency  response. 
+
+1. 
+
+Developer  or  its  afÏliate  shall  work  in  cooperation  with  the  Callaway 
+
+County  Emergency  Management  Director  to  establish  standards  for  the 
+
+proper  storage  and handling  of hazardous  materials. 
+
+lil. 
+
+Developer  or  its  afÏliate  shall  work  in  cooperation  with  the  County  to 
+
+establish  911  addresses  for the  Project. 
+
+110145436.7 
+
+IV. 
+
+Developer shall prepare an  emergency response plan  (the  “ERP”’), including 
+current  Developer  contact  information,  and  shall  provide  the  plan  to  the 
+County prior to  the  commencement  of commercial  operations  of the  Project. 
+The Developer  shall  review  the  ERP annually  and  update  it  as  appropriate. 
+If the  ERP is  updated,  the  Developer  shall  promptly  share  the  updated ERP 
+with the  County.  Copies  of the  ERP shall  be  maintained  at  an  approved  on- 
+site  location  accessible  to  facility  personnel,  the  local  fire  department,  and 
+
+emergency  responders,  which  should  be  outside  the  perimeter  fence. 
+
+Developer will maintain  additional  emergency  procedures as  set forth  in the 
+Road Use Agreement. 
+
+g. 
+
+REIMBURSEMENTS  TO  THE  COUNTY.  Developer  or 
+its  afÏliate  will 
+reimburse  the  County  for  fees  related  to  reasonable  professional  services  (e.g., 
+engineering,  accounting  and  legal)  provided  the  services  are  actually  rendered  and 
+
+the  professional  and  reasonable  documentation  is  provided  to  Developer  by  the 
+
+County as  set  forth  in  the  Definitive  Agreements. 
+
+h. 
+
+COMPLIANCE WITH LAWS.  Developer  and  its  afÏliates  shall  comply  with  all 
+
+federal  and  state  laws  and  regulations  applicable  to  the  construction  and  operation 
+
+of the  Project,  including: 
+
+1. 
+
+Occupational  Safety  and  Health  Administration  statutes  and regulations; 
+
+i. 
+
+United  States  Fish  and Wildlife  Service  statutes  and  regulations,  including 
+
+those pertaining  to  impacts  on  endangered or threatened  species  or habitats, 
+
+if any; 
+
+111. 
+
+U.S.  Army  Corps  of  Engineers  statutes  and  regulations,  including  those 
+
+pertaining  to  impacts  on jurisdictional  wetlands,  if any; 
+
+IV. 
+
+Environmental  Protection  Agency  statutes  and regulations,  including  those 
+
+pertaining  to  environmental  impacts,  if any; 
+
+Consultations  with  the  Missouri  Department  of Natural  Resources  for  any 
+
+required  permits; 
+
+Vi. 
+
+Consultations  with  the  Missouri  Department  of  Transportation  for  any 
+
+required  permits; 
+
+Vil. 
+
+Coordination  with  Callaway County Water District  regarding necessary  and 
+
+required  improvements  for  the  Project;  and 
+
+Vill. 
+
+Any  other  applicable  regulations  promulgated  by  these  and  any  other 
+
+federal  and  state  agencies,  as  required  for permitting  of the  Project. 
+
+oF 
+
+NOTICES. 
+
+110145436.7 
+
+All notices,  requests  and  other communications  provided for herein  (including  any modifications, 
+or  waivers  or  consents  under this  Agreement)  shall  be  given  or  made  in  writing  (including  by 
+electronic mail)  delivered to the intended recipient  at the address set forth below or, as to any party, 
+at  such  other address as  shall  be  designated by such  party  in  a notice to the  other party.  Except as 
+otherwise  provided  herein,  all  notices  and  communications  shall  be  deemed  to  have  been  duly 
+given  when  transmitted  by  electronic  mail  with  confirmation  of  receipt  received,  personally 
+delivered,  or  in  the  case  of a  mailed  notice,  upon  receipt,  in  each  case  given  or  addressed  as 
+provided herein. 
+
+To Developer: 
+
+Nader Pakfar 
+
+c/o  Crusoe  Technologies  LLC 
+225  Fillmore  Street,  Ste 400 
+
+Denver, CO  80206 
+legal@crusoe.ai 
+
+npakfar@crusoe.ai 
+
+Copy to: 
+
+Alan Claus  Anderson 
+Polsinelli  PC,  900  W 48" Place,  Suite  900 
+
+Kansas  City, MO  64112 
+
+(816)  572-4761 
+
+aanderson@polsinelli.com 
+
+To  County: 
+
+Callaway County 
+10  E.  5 Street,  Room  104 
+
+Fulton,  MO  65251 
+
+(573)  642-0730 
+
+Attention:  County Clerk 
+
+6. 
+
+REPRESENTATIONS AND WARRANTIES 
+
+a. 
+
+COUNTY.  The  County represents and warrants  that: 
+
+1. 
+
+the  County has all  necessary power and authority  to execute  and deliver  this 
+
+Agreement  and to  perform  its  obligations  hereunder; 
+
+1. 
+
+upon  execution  and  delivery  by the  County and  Developer, this  Agreement 
+
+shall  be  a  valid,  legal,  binding  and  enforceable  obligation  of  the  County 
+
+enforceable  against  the  County  in  accordance  with  its  terms,  subject  to  any 
+
+applicable  laws  of bankruptcy,  insolvency  or reorganization,  laws  affecting 
+
+the  enforcement  of  creditors’  rights  generally,  and  general  principles  of 
+equity; 
+
+110145436.7 
+
+iil. 
+
+IV. 
+
+no  approval  or  consent  from  any  other  person  or  entity  is  required  for  the 
+County’s  execution  of this  Agreement;  and 
+
+this  Agreement is  executed by duly authorized  representatives  of the  County 
+who are  fully  authorized  to  execute this  Agreement on behalf of the  County. 
+
+b. 
+
+DEVELOPER.  Developer represents and warrants  that: 
+
+1. 
+
+ll. 
+
+ill. 
+
+IV. 
+
+Developer has  all  necessary  power and  authority  to  execute  and deliver  this 
+Agreement  and to  perform  its  obligations  hereunder; 
+
+upon  execution  and delivery  by  Developer and  the  County,  this Agreement 
+shall  be  a  valid,  legal,  binding  and  enforceable  obligation  of  Developer 
+enforceable  against  Developer  in  accordance  with  its  terms,  subject  to  any 
+applicable  laws  of bankruptcy,  insolvency  or reorganization,  laws  affecting 
+the  enforcement  of  creditors’  rights  generally,  and  general  principles  of 
+equity; 
+
+no  approval  or  consent  from  any  other  person  or  entity  is  required  for 
+Developer’s  execution  of this  Agreement;  and 
+
+this  Agreement 
+is  executed  by  a  duly  authorized  representative  of 
+Developer, who  is  fully  authorized  to  execute  this  Agreement  on behalf of 
+Developer. 
+
+He 
+
+DEFAULT PROVISIONS 
+
+If either  Party  fails  to  observe  or  perform  any  material  condition or  provision  of this  Agreement 
+
+for  sixty  (60)  days  after receiving  written notice  of such  failure  from  the  other  Party  (the  “Cure 
+
+Period’), then the aggrieved Party shall  have the right to terminate  this Agreement upon thirty (30) 
+
+days prior  notice  to  the  other  Party  and  to  pursue  any  remedy  available  to  it  at  law  or  in  equity; 
+
+provided  however, that  for  so  long  as  the  delinquent  Party  is  diligently  attempting to  cure  such 
+
+failure  and  the  failure  is,  in the  aggrieved  Party’s  discretion,  reasonably  capable  of being  cured, a 
+
+default under this  Section  7  shall not  be  deemed  to  have  occurred. 
+
+Notwithstanding the  foregoing,  a  Party’s  failure  to  observe  or  perform  any  material  condition  or 
+
+provision  of  this  Agreement  due  to  an  Excusable  Delay  shall  not  constitute  a  breach  of  this 
+
+Agreement.  For purposes  of this  Agreement,  “Excusable  Delay”  means  any  casualty  to  property 
+
+or persons,  inclement  weather, epidemic  or pandemic, inability  to secure materials,  strikes  or labor 
+
+disputes,  acts  of  God,  acts  of the  public  enemy  or  hostile  or  terrorist  action,  civil  commotion, 
+
+and/or  governmental  actions,  restrictions,  regulations  or  controls,  including,  without  limitation, 
+
+any failure or refusal of any governmental authority to timely  issue  any required  permit  or approval 
+
+for  development  of the  Project  or  any  legal  action  or  proceeding  involving  any  such  required 
+
+permit  or  approval  (whether  arising  out  of any  existing  laws  or  changes  in  laws,  including  any 
+
+such  laws relating to annexation,  zoning, platting, building  or other codes or ordinances applicable 
+to development  and construction of the  Project),  or any  other cause beyond  the reasonable  control 
+
+of that Party (other than financial  inability)  which affects development, construction, maintenance, 
+
+110145436.7 
+
+operation,  repair, replacement  or  decommissioning  of the  Project  (including,  without  limitation, 
+
+any of the  foregoing which affect  a Party’s  contractors or subcontractors). 
+
+8. 
+
+SEVERABILITY 
+
+In  the  event  that  any  term  or  provision  of this  Agreement  is  deemed  to  be  invalid,  illegal  or 
+unenforceable  in any jurisdiction,  such  invalidity, illegality  or unenforceability  shall not affect any 
+
+other  term  or  provision  of this  Agreement.  Upon  a  determination  that  any  term  or  provision  is 
+invalid,  illegal  or unenforceable,  the  Parties  shall negotiate  in good faith to modify this Agreement 
+to  effect  the  original  intent  of the  Parties  as  closely  as  possible  in  order  that  the  transactions 
+
+contemplated  hereby be  consummated  as  originally  contemplated  to  the  greatest  extent possible. 
+
+0, 
+
+GOVERNING LAW 
+
+This  Agreement  shall  be  governed  by  and  construed  in  accordance  with  the  laws  of the  State  of 
+
+Missouri  without  regard  to  the  conflict  of law principles  thereof. 
+
+10.  MISCELLANEOUS 
+
+a. 
+
+NO WAIVER.  The  failure  of either  Party  to  insist  in  any  one  or  more  instances  on 
+
+the  performance  of  any  of  the  obligations  required  by  the  other  under  this 
+
+Agreement  shall  not  be  construed  as  a waiver or  relinquishment  of such  obligation 
+
+or right  with respect  to  future  performance. 
+
+b. 
+
+HEADINGS.  The headings  used  in  this  Agreement  are  for  ease  of reference  only 
+
+and shall  not in any way be construed  to  limit  or alter the  meanings  of any provision 
+
+hereof. 
+
+C. 
+
+AMENDMENTS.  This Agreement  may  not  be  changed,  altered,  or  amended  in 
+
+any way except  in writing  signed by a  duly authorized  representative  of each Party. 
+
+Any oral or verbal agreements  between the  Parties  different  from  or in  conflict  with 
+
+the  provisions  of this  Agreement  shall  be  null  and  void  and  of no  force  or  effect 
+
+where they  are  in  conflict  with the  written  provisions  of this  document. 
+
+d. 
+
+ASSIGNMENT.  Developer  may  assign  this  Agreement,  in  whole  or  in  part, 
+
+without  the  consent  or  approval  of County,  provided  that  Developer gives  County 
+
+prior  written  notice  of such  assignment.  Any  assignee  of Developer, other  than  a 
+
+collateral  assignee  in  connection  with  financing,  shall  agree  in  writing  to  assume 
+
+and  be  bound  by  all  terms,  covenants,  and  obligations  of Developer  under  this 
+
+Agreement  as  a  condition  to  such  assignment.  Developer  may  also,  upon  written 
+
+notice  to  County  and  without  County’s  consent  or  approval,  mortgage,  charge, 
+
+pledge,  collaterally  assign,  or otherwise  encumber and  grant security  interests  in  all 
+
+or  any  part  of its  interest  in  this  Agreement  for  purposes  of financing;  provided, 
+
+however, that  in  no  event  shall  Developer  grant,  encumber,  or  otherwise  create  a 
+
+security  interest  in  any  interest  or  property  interest  of County.  Upon any permitted 
+
+assignment,  the  assignee  shall  succeed  to  Developer’s  rights  and  obligations  under 
+
+this  Agreement,  and this Agreement  shall be binding upon and benefit  such assignee 
+
+and  its  permitted  successors  and  assigns. 
+
+110145436.7 
+
+8 
+
+INTERPRETATION.  This Agreement  was  prepared  with  substantial  input  from 
+
+both  Parties  and  their  respective 
+
+legal  counsel;  no  phrase,  sentence,  clause, 
+
+provision  or section  of this  Agreement shall  be  construed  against  a Party  as  a result 
+
+of such  Party’s  legal  counsel  having  acted  as  the  primary  drafter  thereof. 
+
+SUCCESSORS AND ASSIGNS.  This Agreement shall be binding upon  and  inure 
+
+to  the  benefit  of the  successors,  assigns,  trustees  and/or  receivers  of the  Parties 
+
+hereto. 
+
+COUNTERPARTS.  This Agreement may be  executed in one  or more counterparts, 
+
+each  of which  shall  be  deemed  an  original  but  all of which  shall  constitute  one  and 
+
+the  same  instrument. 
+
+TIME  IS  OF THE ESSENCE.  Time  is  of the  essence  of this  Agreement,  and  of 
+
+each  and  every provision  hereof,  and the  Parties  shall  make  every reasonable  effort 
+
+to  expedite  the  subject  matters  hereof and to  perform  their  respective  obligations. 
+
+[REMAINDER OF THIS PAGE IS LEFT INTENTIONALLY BLANK; 
+
+SIGNATURE PAGES FOLLOW. | 
+
+110145436.7 
+
+IN  WITNESS  WHEREOF,  the  Parties  have  caused  the  Agreement  to  be  executed  in  their 
+
+respective  names  by  their  duly  authorized  representatives  and  dated  their  signatures  as  shown 
+
+below, to be  effective  as  of the  Effective Date. 
+
+DEVELOPER: 
+
+]  limited  lability  company 
+
+| 
+
+[ 
+a  | 
+
+By: 
+
+Name: 
+
+Date 
+
+110145436.7 
+
+10 
+
+THE COUNTY: 
+
+COUNTY COMMISSIONERS OF  CALLAWAY COUNTY, MISSOURI 
+
+By: 
+
+Name: 
+
+Gary Jungermann 
+
+By: 
+
+Name: 
+
+Curtis Warfield 
+
+By: 
+
+Name: 
+
+Christopher  Scott 
+
+ATTEST: 
+
+By: 
+
+Ronda Miller, County Clerk 
+
+110145436.7 
+
+11 
+
+EXHIBIT A 
+
+Property 
+
+Tract  1: 
+
+Part  of  the  Northwest  Quarter  of  the  Northwest  Quarter  of 
+Section  Two  (2),  and  part  of the  Northwest  Quarter  of the  Northeast 
+Quarter  of Section  Three  (3),  and  all  of the  Northeast  Quarter  of the 
+Northeast  Quarter  of Section  Three  (3),  all  in  Township Forty-eight 
+(48)  North,  Range  Ten (10)  West,  in Callaway  County,  Missouri,  and 
+being  more particularly  described  as  follows: 
+
+Beginning  at the  Northwest corner of said Section 2,  thence 
+with  the  Township Line,  North  89°  15'  24"  East,  1259.71  feet 
+to  a  point,  thence  South  0°  09'  East,  1468.43  feet  to  a  point  in 
+the  South  line  of the  Northwest  Quarter  of the  Northwest  quarter 
+of said  Section  2,  thence  with said  South  line,  South  88°  34'  10" 
+West,  1259.81  feet  to  the  Southwest  corner  of  the  Northwest 
+Quarter of the  Northwest  Quarter  of said  Section 2,  thence  South 
+88°  26'  46"  West 2554.21  feet to  a  point,  thence  with an existing 
+fence  line,  North  0°  16'  10"  West,  1519.64  feet  to  a  point  in  the 
+
+Township Line,  thence  with  said  Township Line  North  89°  15' 
+
+24"  East,  2556.61  feet  to  the  point  of beginning. 
+
+ALSO the  Northwest Quarter of the  Northeast Quarter  of Section  One 
+(1),  Township Forty-eight  (48),  Range  Ten (10),  EXCEPT a  strip  of 
+land  off of the  West end  thereof 9  feet  wide  at  the  South  end  and  31 
+feet  wide  at  the  North end; 
+
+ALSO  the  Southwest  Quarter  of the  Southeast  Quarter  and  the 
+South half of the  Northwest Quarter of the  Southeast Quarter of 
+Section  Thirty-six  (36),  Township Forty-nine  (49),  Range  Ten 
+(10). 
+
+FURTHER EXCEPT A  tract of land beginning  at the  Southeast corner 
+of the Northwest Quarter of the Northeast Quarter  of Section One  (1), 
+Township  Forty-eight  (48),  Range  Ten (10);  thence  West  280  feet; 
+thence  North 312  feet;  thence  East 280 feet;  thence  South  312  feet  to 
+the  point of beginning containing 2.01  Acres,  (2  Acres more or  less). 
+
+SUBJECT to  Easements  of Record. 
+
+110145436.7 
+
+12 
+
+Twelve  (12)  acres  in  the  Southwest  corner  of  the  West  Half  of  Lot  Two  (2)  of 
+
+the  Northwest  Quarter  of  Section  Six  (6),  Township  Forty-eight  (48),  Range 
+
+Nine  (9);  forty-two  and  21/100  (42.21)  acres  the  East  part  of  the  North  Half 
+
+of  the  Northeast  Quarter  of  Section  One  (1),  Township  Forty-eight  (48), 
+
+Range  Ten  (10);  the  Southeast  Quarter  of  the  Southeast  Quarter  and  the  South 
+
+Half  of  the  Northeast  Quarter  of  the  Southeast  Quarter  of  Section  Thirty-six 
+
+(36),  Township  Forty-nine  (49),  Range  Ten  (10). 
+
+EXCEPT  that  tract  conveyed  to  Associated  Electric  Cooperative  by  deed 
+
+recorded  in  Book  273  at  page  225,  Records  of  Callaway  County,  Missouri. 
+
+Parcel Nos:  04-07.0-36.0-00-000-004.000;  04-07.0-36.0-00-000-003.000;  08-03.0-06.0-00-000- 
+
+003.000;  07-01.0-01.0-00-000-001.000;  and  07-01.0-01.0-00-000-002.000 
+
+Tract  2: 
+
+A TRACT OF  LAND BEGINNING AT THE SOUTHEAST CORNER OF THE NORTHWEST 
+QUARTER (NW  1/4) OF THE NORTHEAST QUARTER (NE  1/4) OF  SECTION  ONE (1), 
+TOWNSHIP FORTY-EIGHT (48), RANGE TEN  (10); THENCE WEST 280 FEET; THENCE 
+NORTH 312  FEET; THENCE EAST 280  FEET; THENCE SOUTH  312  FEET TO THE POINT 
+OF  BEGINNING.  EXCEPT THAT PART, IF  ANY, LYING WITHIN COUNTY ROAD. 
+
+Parcel No:  07-01.0-01.0-00-000-002.002 
+
+110145436.7 
+
+L3 
+
+Tact 3 
+
+. 
+
+TRACT  | 
+The Northeast  Quarter of the  Southwest Quarter, and  the  East  Half of Lot  No.  |  of the  Northwest 
+Fractional  Quarter of Section  One  (1),  Township Forty-eight (48) North,  Range  Ten (10) West of the 
+Fifth  Principal Meridian,  containing in all  81.55  acres,  more or less. 
+The South  half of the Northeast  Quarter of Section  One (1);  the North Half of the  Southeast  Quarter  of 
+Section One  (1);  all  in Township Forty-eight (48) North,  Range Ten (10) West  of the  Fifth  Principal 
+Meridian. 
+EXCEPT a  Two (2) acre tract in the  South Half of the  Northeast  Quarter  of Section One  (1),  Township 
+Forty-eight  (48) North,  Range  Ten (10)  West  in  Callaway County,  Missouri  and  more particularly 
+described  as  follows: 
+Starting at  a  stone set  for the  Southwest corner  of the  Southeast  Quarter of the  Northwest  Quarter of 
+said  Seciton  1,  thence  North 0  degrees  0'  East with  the  North  and  South  subdivision  line  of the 
+Northwest  Quarter of Section  |,  1,354.4  feet  to  a  found  iron set  for  the  intersection  of said  North  and 
+South  subdivision  line  and  the  East  and West  subdivision  line  of the Northwest Quarter of said  Section  1 
+and  being a  point  on  the  approximate centerline  of a  county  road;  Thence  North  88  degrees  53'  East with 
+said  East  and  West subdivsion  line  and  the  approximate centerline  of said  county  road,  1,357.6  feet  to  a 
+found  iron set  for the  Northeast  corner  of the  Southeast  Quarter  of the Northwest  Quarter of said  Section 
+1,  Thence continuing  North  88  degrees  53'  East with the  center line  of said  county road,  1085.4  feet  to 
+the  Point  of Beginning,  Thence  cortinuing North  88  degrees  53'  East  with  the  centerline  of said  county 
+road  341.1  feet,  Thence  South  |  degree  07'  East  280.0 feet  to  a  set  iron;  Thence  South  88  degrees  53’ 
+West  311.1  feet  to  a  set  iron;  Thence North  |  degree  07'  West 280.0  feet  to  the  Point  of Beginning  and 
+containing  2.00  acres  more  or less.  Subject to  all  the  public  and  private roads  and  easements  and 
+excepting therefrom  that  part  heretofore conveyed  to  the  State  of Missouri for highway  purposes. 
+
+TRACT Il 
+The  North  Half of the  Northwest  Quarter  of Section One  (1),  Township Forty-eight  (48) North,  Range 
+Ten (10) West,  containing Ninety  and  30/100  (90.30)  acres,  more  or  less. 
+SUBJECT to  easements  of record. 
+
+The  eastern  forty  (40)  acres  of  the  following  tract  of  land: 
+The  North  Half  of 
+Forty-eight 
+acres,  more  or  less. 
+SUBJECT  to  easements  of  record. 
+
+the  Northwest  Quarter  of  Section  One 
+
+(48},  Range  Ten 
+
+(10),  containing  Ninety  and  30/100 
+
+(1),  Township 
+(30.30) 
+
+Parcel No:  07-01.0-01.0-00-000-004.000 
+
+110145436.7 
+
+14 
+
+Tract  4: 
+
+| 
+
+The  eastern  200  feet  of  the  followin 
+land 
+48  North,  Range  10  West,  in  Callaway  County,  Missouri: 
+
+ct 
+
+: 
+
+g  two  tracts  of  land  located 
+
+sd 
+
+| 
+
+i 
+7 
+a SSE he  PONS 
+
+Townshi 
+
+4 
+
+| 
+
+e 
+
+orth, 
+
+‘orty-eight 
+
+Quarter of  Section  One 
+
+Northwest 
+(10)  West of the 
+
+Ten  (10)  West  in Callaway  County,  Missouri ; 
+
+Half  of the Northeast Quarter of Section One (1),  Township 
+
+(1),  Township Forty-eight 
+(48) North,  Range  Ten 
+in all 81.55 acres, more orless. 
+__ 
+|  “9 
+Half  of the Southeast Quarter of 
+
+TRACT  1 
+setihand  tederaka fiesian  Oeethh  torean ,  and  the  East  Half  of  Lot  No.  1  of  the 
+ractional 
+Fifth Principal Meridian, containing 
+The South half  of  the  Northeast Quarter of  Section One (1);  the North 
+poo One (1); allin Township Forty-eight (48) North, Range Ten (10) West of the Fifth Principal 
+cameras ©) seratent inte South 
+described as follows: 
+imines  ian 
+Starting  at  a  stone  set  for  the  Southwest  corner  of  the  Southeast  Quarter  of  the  Northwest 
+seid  Seciton  1;  thence  North  0  degrees  0'  East with the North  and  South  subdivision line  of  the  f 
+Northwest  Quarter of Section 1,  1,354.4 feet to a  found  iron  set for the intersection of  said North and 
+South  subdivision  line and  the  Bast  and  West  subdivision  line  of  the  Northwest  Quarter  of  said  Section  | 
+and  being  a  point  on  the  approximate  centerline  of  a  county  road;  Thence  North  88  degrees  53'  Hast  with 
+said  Bast and West subdivaion line and the approximate centerline of said county road,  1,357.6 feet to  a 
+found iron set for  the Northeast  corner of the  Southeast  Quarter  of  the Northwest Quarter of said  Section 
+1;  Thence  continuing  North  88  degrees  53'  Bast  with  the  center  line  of  said  county  road,  1085.4  feet to 
+the Point  of Beginning;  Thence  continuing 
+North  88  degrees 53'  East  with  thé centerline of  said county 
+road  311.1  feet, Thence  South  1  degree  07' East  280.0  feet  to  a  set  iron;  Thence  South  88  degrees  53! 
+‘West  311.1  feet  to  a  set  iron;  Thence  North  1  degree  07'  West  280.0  feet  to  the  Point  of  Beginning  and 
+containing 
+excepting therefrom  that  part heretofore conveyed 
+
+2.00  acres  more  or less.  Subject  to  all  the  public  and  private  roads  and  easements  and 
+for  highway  purposes. 
+
+to  the  State  of Missouri 
+
+particularly 
+
+, 
+
+Quarter 
+
+re 
+
+‘  TRACT  I 
+
+: 
+
+The North Half 
+Ten (10) West, containing Ninety  and  30/100  (90.30)  acres, more or less. 
+SUBJECT to  casements of record. 
+
+of  the Northwest Quarter of Section One  (1), Township Forty-eight (48) North, Range 
+
+| 
+
+The  eastern  forty  (40)  acres  of  the  following  tract  of  land: 
+The  North  Half  of  the  Northwest  Quarter  of  Section  One 
+Forty-eight 
+acres,  more  or  less. 
+SUBJECT  to  easements.  of  record.  .. . 
+
+(48),  Range  Ten  (10),  containing  Ninety  and  30/100 
+
+— 
+
+(1),  Township 
+(90.30) 
+
+a 
+
+om  oy, o,  eur  > 
+
+é 
+
+Parcel No:  07-01.0-01.0-00-000-004.001 
+
+110145436.7 
+
+15 
+
+Tract  5: 
+
+Part of the Northeast Quarter of Section  1,  Township 48 North, Range  10  West, Callaway County, Missouri, described as 
+follows: 
+
+Commencing at a stone for the  southeast corner of said section; thence North 01°46'35"  East, 3886.6 feet to a  [/2”  steel rod in 
+the county road; thence along said road, North 89°06'47"  West, 890.2 feet to a  1/2"  steel  rod and the  POINT OF BEGINNING 
+of this description; thence leaving said road, South 00°53'13"  West, 280.00 feet to a  1/2" steel rod, thence North 89°06'47" 
+West, 333.00  feet to a  1/2” steel  rod; thence North 00°53'13"  East, 280.00 feet to a  1/2"  steel  rod  in  the county road; thence 
+along said  road,  South  89°06'47"  East, 333.00  feet to  the  POINT OF BEGINNING, containing 2.14 acres. 
+
+SUBJECT TO easements  of record. 
+SUBJECT TO that  part  used  for county  road  purposes. 
+
+Parcel No: 07-01.0-01.0-00-000-004.002 
+
+110145436.7 
+
+16 
+
+EXHIBIT B 
+
+Project Boundary 
+
+em Le Mg  GE  gt LL  EEE: 
+
+4 
+
+- 
+
+62 
+
+connate 
+
+Z 
+
+04-07.0-36.0-00-000-003.000 
+
+04-07.0-36.0-00-000-004:000 
+
+aa 
+
+00-0020: | 
+
+{7-01.0-01.0-00-000-002.000 
+
+08-03.0-06.0-00-0001003.000 
+
+07-01.0-0.0-00-000-002.002 
+
+002 
+07-01.0-01:0-00-000-004 
+
+003.000 
+
+07-01.0-07.0-00-000-004 000 
+
+07-01;0-01.000000-004.001 
+
+110145436.7 
+
+17 
+
+

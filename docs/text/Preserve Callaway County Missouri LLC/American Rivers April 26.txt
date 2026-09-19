@@ -1,0 +1,876 @@
+AMERIAN 
+0 ;NfIca 
+
+Data Centers and Rivers: 
+Protecting Clean Water and River Health 
+
+A GUIDE FOR LOCAL GOVERNMENTS AND RIVER ADVOCATES 
+April 2026 
+
+Contents 
+
+Section 1: Overview 
+
+DATA CENTER IMPACTS ON RIVERS 
+
+COMMUNITY PRIORITIES FOP WATER -RESILIENT DATA CENTERS 
+
+Section 2: Advocacy Tools and Talking Points 
+
+WATER USE: HOW MUCH THEY TAKE 
+
+WATER QUALITY: WHAT GETS PUT BACK 
+
+WATER  AND ENERGY  NEXUS 
+
+AFFORDABILITY: WHO REALLY PAYS 
+
+COMMUNITY  AND HEALTH 
+
+Appendix A: Sample Outline for Talking Points 
+
+Appendix B: Additional Resources 
+
+References 
+
+3 
+3 
+5 
+
+7 
+7 
+8 
+9 
+10 
+11 
+
+12 
+
+13 
+
+15 
+
+2  1  Data Centers and Rivers  A Community Guide for Clean Water and River Health 
+
+AMERICAN 
+I)  RIVERS 
+
+(
+
+Section 1: Overview 
+
+The rapid proliferation of data centers is placing an 
+unsustainable burden on rivers and the communities 
+that rely on them. While these facilities promise jobs 
+and tax revenue, they also raise serious concerns about 
+impacts on river health and community water security. 
+
+Data centers require enormous amounts of water 
+and energy to keep servers cool and running, placing 
+added stress on local rivers and water supplies. These 
+massive facilities are often proposed in floodplains or 
+near sensitive ecosystems, where their construction 
+can alter land use, increase flooding risks, and degrade 
+water quality. A lack of transparency and consistent 
+reporting makes it difficult for communities to fully 
+understand these impacts — leaving both ecosystems 
+and public health at risk. 
+
+By asking critical questions, implementing strong 
+safeguards, and learning from other communities, 
+watershed advocates and local leaders can help 
+shape more responsible data center development 
+in their regions. The examples and tools in this 
+guidance demonstrate that thoughtful community 
+engagement, transparent dialogue, and enforceable 
+agreements can hold data centers accountable as 
+environmental stewards of local rivers and ecosystems, 
+and responsible neighbors recognizing that people will 
+depend on these resources for generations to come. 
+
+Data Center Impacts on Rivers 
+As data centers multiply to meet growing digital 
+demand, their heavy use of water and electricity is 
+raising new concerns about how these facilities affect 
+local rivers, aquifers, and the communities that rely on 
+them. 
+
+Data centers primarily use water for cooling their 
+servers, most commonly through evaporative cooling 
+
+towers that are increasingly drawing from freshwater 
+sources — like rivers. Water used for evaporative 
+cooling is typically lost to the atmosphere rather 
+than returned to local rivers or aquifers. A single mid-
+sized data center can use roughly 300,000 gallons of 
+water per day —the equivalent of 1,000 households.' 
+Reports estimate that hyperscale data centers can 
+consume 1-5 million gallons of water daily, with 31% 
+of their freshwater sourced from watersheds facing 
+medium to high scarcity. This demand intensifies 
+droughts, disrupts local water infrastructure, threatens 
+biodiversity, and heightens competition for limited 
+supplies. Even in water-rich regions like the Great 
+Lakes, which provide drinking water to 40 million 
+people, data centers could use up to 150 billion gallons 
+of water each year 
+
+straining municipal systems, 
+
+A single mid-sized data center can use roughly 300,000 gallons of 
+water per day — the equivalent of 1,000 households. 
+
+3  I  Data Centers and Rivers  A Community Guide for Clean Water and River Health 
+
+AMERICAN 
+46141)  RIVERS 
+
+Data centers also have large footprints— equivalent 
+to roughly 450 football fields on average — and poor 
+watershed planning exacerbates agricultural land loss 
+and flood risks, while undermining natural systems 
+by reducing adaptive capacity, water retention, and 
+long-term resilience° In addition, reports reveal 
+that nearly half of data centers studied are located 
+in census tracts facing disproportionate existing 
+environmental burdens and situated in areas with high 
+social vulnerability, including elevated poverty rates 
+and lower education levels.° Projects have displaced 
+farmland, threatened historic and Tribal sites, and 
+altered rural communities across the Midwest and 
+Southeast.''' 
+
+Nationwide, high water withdrawals from data centers 
+can heighten local water insecurity — ultimately 
+impacting economies and increasing community 
+risks of waterborne diseases, dehydration, and poor 
+hygiene." Without meaningful public engagement and 
+rigorous review, these developments can erode local 
+resilience, affordability, and trust — but solutions exist. 
+
+Data Centers Impact Rivers 
+in the Following Ways: 
+
+Increased Water Demand (Direct and Indirect) 
+Data centers withdraw millions of gallons 
+daily for cooling (direct use) and consume 
+additional billions indirectly via power plant 
+water for electricity generation (indirect use), 
+depleting rivers, aquifers, and local supplies. 
+
+Decreased Water Quality 
+Construction and operations generate wastewater 
+and increase stormwater runoff with chemicals/ 
+sediment and heated discharges that raise river 
+temperatures and introduce pollutants. 
+
+Loss of Fish and Wildlife 
+Reduced river flows, warmer waters, and pollution 
+harm fish habitats, aquatic life, and ecosystems, 
+disrupting food chains and species survival. 
+
+Impact of Scale and Siting 
+Data centers with large footprints located in floodplains 
+and without proper stormwater management can 
+increase flooding, overload aging pipes, and sewers 
+and heighten stormwater pollution flowing into rivers. 
+
+Loss of Long-term Water Security 
+Without meaningful public engagement and rigorous 
+review, ongoing high water consumption threatens 
+community water security and future economic needs. 
+
+depleting wells, and threatening a global freshwater 
+resource that sustains a $6 trillion regional economy.2
+In small towns and rural areas, data center water 
+withdrawals can consume up to 25% of a community's 
+water supply.3
+
+The evaporative cooling systems required for data 
+center operations can introduce pollutants such 
+as biocides, corrosion inhibitors, heavy metals, and 
+"forever chemicals" (PFAS) directly into nearby rivers 
+and streams without treatment!' Other facilities 
+send large volumes of wastewater to municipal 
+treatment plants, which can overwhelm systems 
+leading to untreated overflows, spills into waterways, 
+infrastructure failures, and heightened contamination 
+risks for communities and ecosystems.5
+
+Beyond direct cooling needs, data centers consume 
+vast amounts of water indirectly through electricity 
+generation. Some facilities draw power equivalent to 
+that of 80,0O0 homes, resulting in millions of gallons of 
+freshwater that never return to downstream sources.6
+Some data center facilities rely on diesel backup 
+generators that emit harmful pollutants the American 
+Cancer Society links to increased rates of respiratory 
+diseases, cardiovascular conditions, and elevated 
+cancer risk in nearby communities."' 
+
+4  I  Data Centers and Rivers' A Community Guide for Clean Water and River Health 
+
+(in RIVERS 
+
+AMERICAN 
+
+Community Priorities for 
+Water-Resilient Data Centers 
+Advocating for water-resilient siting, recycled 
+water use, transparency, and community input can 
+support sustainable growth without sacrificing 
+ecosystems, community resilience, or economic 
+stability. Communities can negotiate for what they 
+need to safeguard their rivers including oversight, 
+transparency, and fiscal investment in critical areas 
+such as river restoration, green infrastructure, and 
+natural resource protections. Water advocates 
+recommend that data centers protect our 
+water resources and safeguard communities by 
+implementing: 
+
+1. Secure Water Supplies 
+
+Transparent Water Use Reporting and Monitoring 
+Require transparent reporting of projected 
+and actual water use, continuous water quality 
+monitoring, and strong oversight of chemical 
+including forever chemicals 
+contaminants 
+(PFAS)  with company-funded accountability 
+for any violations or improper disposal. 
+
+Recycled Water Systems 
+Rely on non-potable, recycled, or alternative sources 
+with minimal evaporative losses —without harming 
+community or ecological health and resilience. 
+
+Sustainable Planning 
+Adopt water-saving technologies and enforce 
+mandatory, actionable plans to reduce withdrawals 
+during droughts and peak demand periods. 
+
+No Inter-basin Transfers 
+Ensure no inter-basin transfers of water occur and 
+protect downstream communities from impacts. 
+
+RAPPAHANNOCK PIVER, VIUCtNIA, HARLOW CHANDLER 
+
+2. Healthy Watersheds 
+
+Avoid Water-Scarce Areas 
+Site data centers outside regions prone to water 
+scarcity, ensuring withdrawals do not threaten 
+community water supplies or exacerbate shortages 
+during droughts or peak-demand seasons. 
+
+Floodplain Protections 
+Locate outside 100-year floodplains or stricter 
+standards required by local, state, or federal 
+policy, avoiding any reduction in floodplain 
+connectivity and flood storage capacity. 
+
+ADVOCATE FOR 
+RESILIENT DATA CENTERS 
+
+'Nt 
+
+) 
+
+STRONG 
+COMMUNITIES 
+
+, 
+
+CLEAN, SAFE 
+WATER 
+
+) 
+
+( 
+
+HEALTHY 
+WATERSHEDS 
+
+.9 
+
+SECURE WATER 
+SUPPLIES 
+
+S  I  Data Centers and Rivers  A Community Guide for Clean Water and River Health 
+
+i071 AMERICAN 
+
+o  RIVERS 
+
+ 
+POTOMAC RIVER. VIRGINIA, ALAN LEHMAN 
+
+Meaningful Public Engagement 
+Include robust community input and 
+rigorous environmental review processes 
+to ensure development enhances local 
+resilience, affordability, and trust. 
+
+Community Benefit Agreements 
+Negotiate multi-year investments to ensure long-term 
+health of rivers through investments in local parks, 
+riverfront and riparian buffers, green stormwater 
+infrastructure, forests, and habitat restoration. 
+
+Neighborhood Safeguards 
+Protect neighborhood health and water security 
+by limiting pollution and noise, maintaining 
+natural buffers, and investing in local workforce 
+development for sustainable water management. 
+
+3. Clean, Safe Water 
+
+Sustainable Stormwater Management 
+Require comprehensive on-site stormwater mitigation 
+to prevent runoff pollution complemented with 
+implementing green infrastructure to address 
+water quality impacts and mitigate flooding. 
+
+Wastewater and Pollutant Reduction 
+Enforce best practices in wastewater treatment 
+and thermal discharge to protect and maintain 
+river water quality. 
+
+4. Strong Communities 
+
+Water Rights and Cultural Protection 
+Honor tribal water and treaty rights, sovereignty, 
+and respect cultural river uses by requiring 
+consultation with tribal governments, comprehensive 
+reviews to assess impacts on Tribal water use, 
+infrastructure, health, and traditional practices. 
+
+Data Centers and Rivers* A Community Guide for Clean Water and River Health 
+
+CD AMERICAN 
+
+RIVERS 
+
+Section 2: Advocacy Tools 
+and Talking Points 
+
+Strong regulations and community-driven investment 
+can turn data center development into an opportunity 
+to secure benefits for your river and community. 
+By requiring water reuse, green infrastructure, and 
+renewable energy systems, communities can reduce 
+stress on rivers and aquifers while cutting pollution 
+and utility costs. Grounding decisions in a water-
+first approach makes data centers accountable for 
+protecting public health, restoring and safeguarding 
+
+natural resources, and supporting long-term economic 
+competitiveness — rather than shifting risks and costs 
+onto residents and local governments. 
+
+This section provides impact overviews and strategic 
+questions to raise with elected officials, planning 
+boards, and utility managers. Utilize these talking 
+points to frame public comments, guide community 
+meetings, and press decision-makers for accountability. 
+
+Water Use: How Much They Take 
+
+Impact Summary 
+
+Data centers can consume hundreds of thousands to millions 
+of gallons of water daily, often comparable to a small city. 
+
+Evaporative cooling systems permanently remove water from the 
+watershed, reducing groundwater recharge and streamflow. 
+
+Heavy withdrawals can lower aquifer levels, dry up local wells, and increase 
+competition for water between households, farms, and industries. 
+
+In regions already experiencing drought or fluctuating river or water levels, 
+large withdrawals can exacerbate scarcity and long-term water stress. 
+
+Without complete disclosure of water use, strict permit conditions, 
+and monitoring, local water systems may not have water resources 
+to sustain projected water demands over the facility's life cycle. 
+
+Questions for Decision-Makers 
+
+Where exactly is that water coming from  our river, lake, or local wells 
+— and is that source already stressed in droughts or summer? 
+
+How much water will the data center use during construction and ongoing 
+operations, and how does that use compare to current municipal and 
+watershed-scale demand? Require specific metrics, including but not limited 
+to average daily use, maximum daily use, and total maximum annual use. 
+
+I  Data Centers and Rivers: A Community Guide for clean water and River Health 
+
+AMERICAN 
+
+C:41)  RIVERS 
+
+How much additional water will be withdrawn to cool any new or 
+expanded power plants built or kept online to serve the data center? 
+
+Will the facility be required to use only non-potable, recycled, or alternative 
+water sources with the lowest achievable evaporative losses? 
+
+Will there be a legal limit on how much water the data center can use, 
+and what happens if they go over that limit? Is there a cap (withdrawal 
+limit) on water use written into agreements or permits, and what 
+corrective measures will result if the operator exceeds that cap? 
+
+Community Examples 
+
+•  Phoenix, Arizona: Established rules that require large-quantity water users 
+that consume more than 500,000 gallons of water per day to offset this 
+by using recycled or conserved water for 30% of their water demand.'2
+
+•  Southern Nevada Water Authority: Adopted a moratorium that 
+
+effectively blocks water-heavy data center designs unless they switch 
+to air-cooled or recycled-water systems and even providing rebates 
+and incentives to encourage residents and businesses to upgrade 
+to more water-efficient cooling systems and appliances.13
+
+•  Tucson, Arizona: City Council unanimously opposed a massive water 
+demand in a drought-prone area; this forced greater transparency 
+and special permitting reviews for large water users:14
+
+Water Quality: What Gets Put Back 
+
+j Impact Summary 
+
+Large impervious surfaces (scale of data center facilities, parking 
+lots, cooling towers) increase stormwater volume and pollutant 
+loads unless mitigated through green infrastructure. 
+
+Construction and site grading can increase sediment and 
+pollutant runoff into local rivers and wetlands. 
+
+Chemical additives used in cooling systems may pose 
+risks if discharged without proper treatment. 
+
+Thermal discharges from cooling processes can alter receiving water 
+temperatures, contributing to harmful algal blooms and affecting aquatic 
+ecosystems, with significant direct and indirect public health impacts.'s 
+
+Increased groundwater or well pumping will lower groundwater levels that 
+concentrate contaminants or mobilize naturally occurring pollutants like arsenic. 
+
+Insufficient wastewater capacity or spills from operations could 
+degrade local water quality and harm downstream communities. 
+
+8  I  Data Centers and Rivers. A Community Guide for Clean Water and River Health 
+
+el AMERICAN 
+
+1)  RIVERS 
+
+Questions for Decision-Makers 
+
+Who has jurisdiction over water quality and water quantity for this project? 
+
+What is in the water that leaves the site — heat, chemicals, or other 
+pollutants — and where does it go (which creek, river, or treatment plant)? 
+
+What cooling technologies and chemicals (including any PFAS-
+containing products) will be used, and how will wastewater, 
+process water, and stormwater be treated, monitored, and 
+managed before they are discharged to local waterways? 
+
+How will stormwater be managed on site to keep dirty runoff out of our rivers 
+and streams (for example, rain gardens, green infrastructure, detention ponds)? 
+
+How often will water around the facility be tested, who does the 
+testing, and what fines or shutdowns apply if they pollute? 
+
+Community Examples 
+
+•  Prince George's County, Maryland: Advocates gathered over 20,000 
+signatures on a  petition that initiated a 180-day pause on data center 
+development, establishing a task force to assess water-related risks, 
+and implement more rigorous wastewater discharge regulations.'6
+
+•  Fort Wayne, Indiana: Residents opposed a Google data center, spotlighting 
+excess water/sewage infrastructure approvals; community pressure led to 
+public scrutiny and demands for caps before council greenlit expansions.17
+
+Water and Energy Nexus 
+
+mpact Summary 
+
+New or expanded fossil fuel power plants consume more 
+water for cooling, further straining rivers and aquifers. 
+
+Additional energy demand can drive the development of more 
+hydroelectric power dams that damage rivers, recreation, and habitat. 
+
+Concentrated demand can strain grids, increasing outage risks that disrupt 
+water treatment, wastewater systems, and other essential services. 
+
+New lines and substations often cut through forests, farms, and Tribal or 
+conservation lands, fragmenting habitats, river corridors, and open space. 
+
+Questions for Decision-Makers 
+
+•  How much electricity will this data center use, and will it drive 
+new power infrastructure that strains regional freshwater 
+resources for power generation and cooling? 
+
+9 I  Data Centers and Rivers: A Community Guide for Clean Water and River Health 
+
+el AMERICAN 
+
+RIVERS 
+
+What sources of electrical generation will be used to power the data center? 
+
+What share of power will come from clean, low-water energy 
+sources (e.g., wind/solar), with binding commitments and 
+transparent reporting to minimize water use over time? 
+
+Will this demand increase outage/brownout risks for water utilities, 
+and how will utilities safeguard water-dependent grid reliability? 
+
+Has the project assessed reusing waste heat/energy for community 
+benefits, reducing overall water-intensive power generation needs? 
+
+Community Examples 
+
+•  Pittsburg, California: A legal agreement with developers requires 100% 
+renewable energy, recycled water for cooling and landscaping, rooftop 
+solar, EV charging, wildlife monitoring, noise reduction, and a $750,000 
+fund for climate resiliency projects in disadvantaged neighborhoods.18
+
+•  Colorado: The Colorado Public Utilities Commission proposes a "large 
+load tariff" requiring data centers to commit to 15-year contracts with 
+evaluation fees, security deposits, minimum bills, and early exit fees.19
+
+Affordability: Who Really Pays 
+
+) Impact Summary 
+
+Data center water and power infrastructure often relies on public 
+water systems and power grids. Utilities recover expansion costs 
+through higher customer rates, so households and small businesses 
+often subsidize data center access to water and energy. 
+
+Competition for finite water and energy can raise prices, shifting the value 
+of rivers, aquifers, and grid power from community needs to private profit. 
+
+8 
+
+Questions for Decision-Makers 
+
+Who is paying for the necessary upgrades to water, sewer, and electric 
+systems— the company or local ratepayers and taxpayers? 
+
+Will my water or energy bill go up because of this project, 
+and by how much over the next 5-10 years? 
+
+•  Will residential and small-business customers experience higher base rates or 
+
+special surcharges to cover data center expansion and long-term maintenance? 
+
+Can the city or utility negotiate a structure where the data 
+center fully funds capacity expansions and contributes to rate 
+stabilization programs for low-income households? 
+
+10  Data Centers and Rivers: A Community Guide for Clean Water and River Health 
+
+AMERICAN 
+
+CI)  RIVERS 
+
+Community Examples 
+
+•  Starke County, Indiana: Community advocacy from Citizens Action Coalition prompted 
+a one-year moratorium on new "hyperscale" Al data centers (>100,000 sq ft), with a task 
+force to develop protective policies before lifting the ban.2a 
+
+•  State of Virginia: Virginia lawmakers introduced legislation levying 
+
+a  per-square-foot fee on data center facilities, funneling revenue into 
+land conservation initiatives via the Great Outdoors Act.21
+
+Community and Health 
+
+mpact Summary 
+
+Water quantity and quality impacts can threaten safe drinking water and local 
+ecosystems that support recreation, cultural practices, and mental health. 
+
+Potential releases of cooling chemicals, including forever chemicals (PFAS), 
+raise concerns about long lasting contamination of drinking water and 
+aquatic ecosystems. 
+
+Questions for Decision-Makers 
+
+•  What permits does this project need, and is all submitted 
+
+information publicly available? 
+
+•  How is the project meaningfully involving local communities, 
+
+Tribal Nations, and landowners? 
+
+-  How will the project address cumulative risks — especially in neighborhoods 
+
+already burdened by pollution, heat, flooding, or high utility costs  and how will 
+new water infrastructure affect those impacts? 
+
+•  What safeguards will prevent disruption and contamination of private wells, small 
+
+community water systems, and subsistence uses in rural or Tribal areas? 
+
+Gt Community Examples 
+
+•  Loudoun County, Virginia: Eliminated "by-right" zoning for data centers, requiring public 
+hearings and board votes instead of staff approvals; nearby Fairfax, Prince William, and 
+Fauquier counties followed in 2025.22
+
+•  Atlanta, Georgia: City code amended to require special use permits (SUPs) and City 
+
+Council approval for all new data centers, with mandatory disclosure of estimated water/ 
+energy consumption and tree removal for power lines, plus prohibitions in specific 
+neighborhood commercial districts?3
+
+•  Memphis, Tennessee: Community Against Pollution and the NAACP are challenging a 
+
+data center in historically Black neighborhoods in Memphis, TN for Clean Air Act violations 
+and environmental racism. Local organizing continues decades-long resistance to polluting 
+corporate operations that target disadvantaged communities without proper permits.24
+
+TI  I  Data Centers and Pivers: A Community Guide for Clean Water and River Health 
+
+CD AMERICAN 
+
+RIVERS 
+
+Appendix A: Sample Outline 
+for Talking Points 
+
+This section provides a ready-to-use framework for organizing your message 
+when speaking at public hearings, meeting with officials, or engaging community 
+members. Use this outline to structure clear, persuasive talking points that open 
+with the core issue, present specific concerns, and offer concrete solutions. Adapt 
+the template to your local context and priorities, drawing on Section 2 for key 
+questions to raise with decision-makers: 
+
+Step 1: What Is Being Proposed? 
+
+Brief description of the data center project and location 
+
+Snapshot of projected water and energy demand 
+compared to current community use 
+
+Step 2: Why Water Matters Here 
+• 
+
+Local rivers, groundwater, and existing water challenges 
+
+Highlight how large, concentrated users can 
+strain existing systems and raise rates 
+
+Step 3: Key Questions for Officials and the Company 
+•  Adapt bulleted questions from Section 2 above 
+
+Step 4: Establish Community Asks 
+
+Integrate asks in priority order that should include transparent 
+water use and quality data, monitoring and fines, full 
+funding of infrastructure, and equity protections 
+
+Step 5: Long-Term Vision for Future Generations 
+
+Describe a desired future with healthy rivers, affordable 
+utilities, and resilient neighborhoods, and explain how strong 
+requirements for data centers support that vision 
+
+12  I  Data Centers and Pivots  A Community Guide for Clean Water and Ptver Health 
+
+AMERICAN 
+RIVERS 
+
+Appendix B: Additional Resources 
+
+Toolkits: 
+
+North Star Data Center Policy Toolkit Al Now Institute (December 3, 2025) 
+
+Stop Dirty Data Centers NAACP 
+
+Data Center Playbook Alliance for the Great Lakes 
+
+Getting It Right: Local Approaches to Data Center Development Southern Environmental Law Center Data 
+Center Report (January 2026) 
+
+Stop Bad Data Centers a people-powered network designed and maintained by Netcentric Campaigns (2026) 
+
+Reports/Research: 
+
+2024 United States Data Center Energy Usage Report Lawrence Berkeley National Laboratory, Berkeley, 
+California (December 2024) 
+
+Cooling the Cloud: Water Utilities in a Data-Driven World American Water Works Association (October 2025) 
+
+Who's building data centers in your backyard? PoweredByWho 
+
+Data Centers in the Great Lakes Region Weldon Cooper Center for Public Service, University of Virginia 
+
+•  Small Bottle, Big Pipe; Quantifying and Addressing the Impact of Data Centers on Public Water Systems 
+
+Yuelin Han, Pengfei Li, Adam Wierman, and Shaolei Ren (Video, 2:35 minutes), Report: https://arxivorgl 
+a bs/2603.02705. 
+
+•  Regulating Data Center Water Use in California  Grimm, M., N. Green Nylen, and M. Kiparsky (2026). 
+
+Regulating Data Center Water Use in California. Center for Law, Energy & the Environment, UC Berkeley 
+School of Law, Berkeley, CA. 66 pp 
+
+•  Al-driven water demand to surge nearly 130% by 2050. New Research Suggests Scott Jenkins, Chemical 
+
+Engineering (January 23, 2026) 
+
+•  Al has a hidden water cost -  here's how to calculate yours, Leo S. Lo The Conversation (September 1, 2025) 
+
+•  The Hidden Complexity of Data Center Siting. Keith Cooke, ESPI (September 8, 2025) 
+
+Learning from Others (Articles): 
+
+•  The Water-Energy Nexus: The Hidden Infrastructure Of Resilience Forbes, (October 27, 2024) 
+
+•  America's Al Boom Is Running Into An Unplanned Water Problem  Ken Silverstein, Forbes (January 11, 2026) 
+
+•  Communities Push Back Against Al Data Center Expansion Project Uncensored (January 8, 2026) 
+
+•  Prioritize Michiganders First: Community Rallies Against Data Center Demanding Affordable Utility Pates 
+
+and Pules by the Michigan PSC, Sierra Club (October 28, 2025) 
+
+13  I  Data Centers and Pivers. A Community Guide for clean Water and River Health 
+
+AMERICAN 
+
+CD RIVERS 
+
+The People Say No: Media_Justice's Advocacy  gainst Al Data Center Expansion NPR (December 12, 2025) 
+
+Local Governments are Learning How to Negotiate with Data Center Developers Tech Policy Press 
+(November 10, 2025) 
+
+The Real Race for an Al Moratorium: Stopping Data Centers Tech Policy Press (December 17, 2025) 
+
+Groups Challenge Montana PSC Order That Shields Data Center Plans from Public View Perry Wheeler, 
+(March 11, 2026) 
+
+How to make data centers less thirsty Naveena Sadasivam, Grist (November 24, 2025) 
+
+Super Hot Rocks could power data centers in central Oregon Kendra Chamberlain (November 5, 2025) 
+(podcast, 5 min) 
+
+When A.I. Comes to Town: The Backlash Over Data Centers The Daily (Podcast), New York Times (February 
+15, 2026) 
+
+14  Dt  Centers and  ve  s. A Community Guide for Clean Water and Rivet  Health 
+
+AMERICAN 
+RIVERS 
+
+References 
+
+1. Data Centers. Backbone of The Digital Econo  y. Face Water Scarcity and Climate Risk, Michael Copley, NPR (August 30, 2022) 
+
+2. Data centers consume massive amounts of water - 
+Scanlan, The Conversation (August 19, 2025) 
+
+Peyton McCauley, Melissa 
+
+3. Data Drain: The Land and Water Impacts of the Al Boom, Jon Gorey, Lincoln Institute (October 17, 2025) 
+
+4. Advocates raise alarm over Pfas pollution from datacenters amid Al boom, Tom Perkins, The Guardian (October 4, 2025) 
+
+S. Data Centers and Water Consumption, Miguel Yariez-Barnuevo, Environmental and Energy Study Institute (June 25, 2025) 
+
+6. Data Centers and Their Energy Consumption: Frequently Asked Ouestions, Offutt, Martin C.; Zhu, Ling, Congressional Research 
+Service (P48646); (August 26, 2025) 
+
+7. Global data center expansion and human health: A call for empirical research  Vu Tao, Peng Gao, Eco-Environment & Health, 
+Volume 4, Issue 3, 2025 
+
+8. From Energy Use to Air Duality. the Many Ways Data Centers Affect US Communities  Carla Walker and Ian Goldsmith, World 
+Resource Institute (February 17, 2026) 
+
+9. America's Digital Demand Threatens Black Communities with More Pollution  Adam Mahoney, Capital B (February 25, 2026) 
+
+10. Uniquely Evil': Michigan Residents Fight Against Huge Datacenter Backed by Top Tycoons, Tom Perkins, The Guardian 
+(December 18, 2025); A rural community steps up to stop data centers, Kathleen Sullivan, Cornelius Lewis, Southern Environmental 
+Law Center (March 25, 2026) 
+
+11. From Energy Use to Air Duality. the Many W-ys Data Centers Affect US Communities  Carla Walker and Ian Goldsmith, 
+World Resource Institute (February 17, 2026) 
+
+12. Phoenix has new water rules. and penalties. for businesses using 250K-plus gallons a day  Taylor Seely Arizona Republic 
+(March 7, 2024) 
+
+13. Water authority moves to conserve on cooling systems in Southern Nevada  Rhiannon Saegert, Las Vegas Sun 
+(September 25, 2023); The Moratorium on Evaporative Cooling Systems  TK Engineers (May 8, 2024) 
+
+14. The city that draws the line': one Arizona community's fight against a huge datacenter, Douglas Main, The Guardian 
+(October 15, 2025) 
+
+15. Health implications of the rapid rise of data centers in Virginia: an exploratory assessment, Gour N, Ortiz Land Maibach E., 
+Frontiers in Climate, Volume 8 (February 5, 2026) 
+
+16. We have to set standards': N,Any Prince George's County paused data center dans, Dominique Moody, NBC Washington 
+(September 16, 2025) 
+
+17. Fort Wayne City Council shoots down drainage. asks Google to pay amid data center drama  Ethan Dahlen, Wayne 15 News 
+(January 13, 2026) 
+
+18. Agreement Secures Renewable Energy. Recycled Water for California Data Center, Center for Biological Diversity 
+(December 16, 2025) 
+
+19. More data centers are coming to Colorado. demanding more Power than they'll need. Will customers foot the bill?  Mark Jaffe, 
+Colorado Sun (December 10, 2025) 
+
+20. Starke County puts moratorium on large data centers  Joseph S. Pete, (Munster) Times of Northwest Indiana, Indiana Economic 
+Digest (December 17, 2025) 
+
+21. Virginia's Great Outdoors Act, VA HB641, 
+
+22. Loudoun to eliminate by-right data center development, with some exceptions  Dan Brendel, Washington Business Journal 
+(May 5, 2025) 
+
+23. Atlanta City Council bans data centers along BeltLine  Dyana Bagby, Georgia Public Broadcasting (September 4, 2024) 
+
+24  We Are the Last of the Forgotten:' Inside the Memphis Community Battling Eton Musk's xAl., Andrew P. Chow Time Magazine 
+(August 13, 2025) 
+
+B A RIVER, WA 
+BACK COVER: DEL NORIE RIVER, COLORADO, SIMIN EBERLE 
+
+el AMERICAN 
+
+RIVERS 
+
+110114th St. NW, Ste. 1400 
+Washington, DC 20005 
+202.347.7550 
+America nRivers.org 
+
+ABOUT AMERICAN RIVERS 
+
+American Rivers is a national conservation organization working 
+to make every river clean and healthy for people and wildlife, We 
+combine evidence-based solutions with enduring partnerships to 
+safeguard the 4.4 million miles of rivers and streams that are essential 
+to our nation's clean drinking water, extraordinary wildlife, and the 
+strength of our communities. For more than SO years, our staff, 
+supporters, and partners have been driven by a common belief: 
+Life Depends on Rivers. 
+
+
