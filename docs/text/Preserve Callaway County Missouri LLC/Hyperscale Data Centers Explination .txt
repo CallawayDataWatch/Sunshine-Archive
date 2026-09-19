@@ -1,0 +1,880 @@
+Hyperscale Data Centers 
+A Plain-Language Guide to the Real Tradeoffs 
+
+What the evidence shows, what depends on local choices, and what is still unsettled. 
+
+A neutral explainer  •  Fully sourced  •  May 2026 
+
+Contents 
+
+Contents 
+
+Introduction 
+
+Electricity use 
+
+Where the new power comes from 
+
+Your electricity bill 
+Water use 
+
+Water quality, wastewater, and aquifers 
+
+Cooling systems, and the truth about "closed-loop" 
+Tax breaks and incentives 
+Transparency: NDAs, code names, and surprise projects 
+Climate and emissions 
+Local environment, land, and health 
+Noise 
+
+Light pollution 
+
+The bottom line: the genuine tradeoffs 
+
+Sources & further reading 
+
+2 
+
+3 
+
+3 
+
+4 
+6 
+
+7 
+8 
+
+10 
+
+11 
+
+12 
+
+14 
+
+14 
+15 
+
+16 
+
+16 
+
+17 
+
+Introduction 
+
+Data centers are large buildings full of computers that store data and run apps, 
+websites, cloud services, and Al. A hyperscale data center is one of the biggest kinds, 
+often more than 100,000 square feet and drawing more than 100 megawatts of 
+power. Hundreds of them are being built or expanded across the U.S. 
+
+The public debate is loud, and both sides reach for their strongest numbers. This guide 
+tries to do something different: lay out what the evidence actually shows, what genuinely 
+depends on local choices, and what is still unsettled. Where studies disagree, that 
+disagreement is the point. 
+
+Two choices end up shaping almost everything below: where a data center gets its 
+electricity, and where it is built. Keep those two in mind as you read, because they 
+come back in nearly every section, and together they explain why one facility can be a 
+quiet, low-impact neighbor while another a few states away is a constant problem. 
+
+One note before the numbers. Even the count of U.S. data centers depends on who is 
+counting and how they define one. Estimates in 2025 ranged from about 3,600 (the 
+National League of Cities, which counted at least 600 as hyperscale) to over 5,400 (the 
+Environmental and Energy Study Institute). 1 Definitions matter throughout this topic, so 
+the figures here are best read as ranges, not precise truths. 
+
+Electricity use 
+
+Start with the most basic question: how much power do these buildings actually use? 
+
+Because they run around the clock, even a single large campus pulls steady electricity 
+on the scale of a mid-sized city, and many are arriving on the grid at once. The U.S. 
+
+power system was built for slow, predictable growth, so a fast wave of huge new users 
+raises real questions about whether there is enough supply and who pays to build 
+
+more. 
+
+According to the U.S. Department of Energy's 2024 report by Lawrence Berkeley 
+National Laboratory, data centers used about 4.4% of all U.S. electricity in 2023, roughly 
+176 terawatt-hours, and that share could reach somewhere between 6.7% and 12% by 
+2O28.2 That is a wide range on purpose: the actual number depends on how fast Al grows 
+
+National League of Cities, "Data Centers and Local Environmental Considerations" (2025): 
+https: I Iwww.nlc.org/article/ 202s/ 05 /21 / data-centers-and-local-environmental-considerationsi  EESI, "Data 
+Centers and Water Consumption": https://www.eesi.orgiarticlesiviewidata-centers-and-water-consumption 
+2U.S. Department of Energy and Lawrence Berkeley National Laboratory, 2024 Report on U.S. Data Center Energy 
+Use (Dec. 2024): https://www.energy.goviarticlesidoe-releases-new-report-evaluating-increase-electricity-
+demand-data-centers 
+
+and how efficient the hardware becomes, and the authors are careful not to pretend they 
+know which end is right. 
+
+U.S. data center electricity use 
+
+325-580 TWh 
+
+600 
+
+%),
+
+58 TWh 
+
+0-
+
+1.110111.1 
+2014 
+
+176 TWh 
+
+4.4% 
+
+2023 
+
+6.7-12% 
+
+2028 
+(projected) 
+
+Data center electricity use roughly tripled over the past decade and is projected to double or triple again by 
+2028. The 2028 bar shows the projected range. 
+
+What a single facility draws depends mostly on what it does. AT training uses far more 
+power than ordinary cloud storage, so an "AI" campus and a "cloud" campus of the same 
+size can have very different appetites. And the scariest-sounding forecasts deserve a 
+grain of salt. One analysis noted that utilities received requests to connect more than 700 
+gigawatts of new data center load in 2025, more than the entire country used in 2023.3 
+Many of those projects will never be built, a good reminder that demand requests 
+overstate what actually gets constructed. 
+
+Where the new power comes from 
+All of this raises an obvious question: where will the electricity actually come from? In 
+the near term, the answer is mostly the existing grid, often backed by new natural gas 
+plants or on-site gas turbines, which is part of why emissions and noise come up later in 
+this guide. A faster clean option that a few companies are using is restarting or 
+expanding an existing nuclear plant. The deal to restart a reactor at Three Mile Island, 
+renamed the Crane Clean Energy Center, to power Microsoft data centers is the headline 
+example. Reusing a plant that already operated is quicker than building from scratch, 
+since the work is mainly relicensing and refurbishment. But "quicker" is relative. The 
+operator is targeting a 2027 restart, yet the regional grid operator, RIM, has said the 
+
+3Environmental and Energy Study Institute, "Data Center Power Demands Are Contributing to Higher Energy 
+Bills" (2026): httos://www.eesi.orgiarticlesiview/data-center-nower-demands-are-contributing-to-higher-energy-
+bills 
+
+4 
+
+transmission upgrades needed to fully connect the plant may not be finished until 2031.4 
+Even a restart can be held up by the same grid bottlenecks that face every other new 
+power source. 
+
+This is also where you will hear the popular shorthand: "just put a small nuclear reactor 
+on-site." Small modular reactors, or SMRs, are factory-built reactors far smaller than 
+traditional plants, pitched as clean, steady power that can sit next to a data center. Big 
+tech is betting on them. Amazon backs the developer X-energy, Meta has signed on for 
+up to eight TerraPower plants, and Google is backing Kairos.5 The interest is real and 
+growing. 
+
+But the idea is far harder than "throwing one down" suggests. As of 2026, no SMR is 
+powering any U.S. data center. Only one design (NuScale's) is fully certified by federal 
+regulators; the others are still in permitting or early construction.6 The most realistic 
+forecasts put the first commercial units in the early-to-mid 2030s, not now.7 Licensing is 
+becoming less of a barrier than it was: in 2026 the NRC finalized a modernized, optional 
+licensing framework, called Part 53, built for these newer designs, more than a year 
+ahead of its legal deadline.8 But Part 53 is brand new and untested in practice, and each 
+first-of-a-kind reactor still gets close individual review. The harder obstacles are 
+economic. Costs have run high and risen (one prominent early project's estimate climbed 
+from about $60 to $90 per megawatt-hour before it was canceled),9 and the field faces 
+shortages of specialized nuclear fuel and trained workers on top of ordinary construction 
+risk. In short, "throw a mini nuke in place" compresses a roughly decade-long, 
+multibillion-dollar, first-of-its-kind effort into a sentence. Nuclear may well become a 
+
+4Reuters via U.S. News, on PJM telling Constellation the Crane (Three Mile Island) restart may not connect until 
+2031 (March 2026): https://money.usnews.com/investinginews/articles/2026-03-26/constellation-exec-says-
+grid-operator-told-company-three-mile-island-cant-connect-until-2031  Utility Dive, on the interconnection 
+dispute (April 2026): https://www.utilit3rdive.cominews/pjm-market-monitor-constellations-nuclear-crane-
+waiver/818216/ 
+5Davis Graham, on SMR and data-center deals (2026): https://davisgraham.cominews-events/small-modular-
+reactors-and-data-centers-the-emerging-regulatory-landscape-for-next-generation-nuclear-Power-supply/ 
+American Bar Association, on the Meta and TerraPower agreement (2026): 
+https://www.americanbar.org/groupsienvironment  energy  resources/resources/trends/2026-mar-
+apr/pressure-to-succeed-small-modular-nuclear/ 
+oUtility Dive, "NRC approves NuScale's small modular reactor plant design" (2025): 
+https://www.utilitydive.cominews/nrc-approves-nuscale-small-modular-reactor-smr/749c18/  iRecruit, SMR 
+data-center developments (2026): https://www.irecruit.co/insights/smr-nuclear-powered-data-center-
+developments 
+7Davis Graham, on realistic SMR commercial timelines (2026): https://davisgraham.cominews-events/small-
+modular-reactors-and-data-centers-the-emerging-regulatory-landscape-for-next-generation-nuclear-power-
+supply/ 
+8American Nuclear Society / Nuclear Newswire, on the NRC finalizing the Part 53 framework (March 2026): 
+https://www.ans.orginews/article-7881/nrc-unveils-part-51-final-rule/  U.S. Nuclear Regulatory Commission, 
+Part 53 final rule (effective April 29, 2026): https://www.nrc.govireactorsinew-
+reactors/advanced/modernizing/rulemaking/part-sq 
+9Reason, on rising SMR cost estimates (2026); the project referenced was later canceled: 
+https://reason.com/2026/02/03/next-generation-nuclear-power-can-meet-data-center-energy-demand-if-
+regulations-allow-it/ 
+
+major power source for these centers, but it is years away, not a switch anyone can flip 
+today. 
+
+Power option 
+
+Status in 2026 
+
+The catch 
+
+Grid power, often backed 
+by new natural gas 
+
+Available now; most 
+common 
+
+Adds carbon emissions; on-site gas 
+turbines also add noise 
+
+Restarting an existing 
+reactor (Three Mile Island 
+/ Crane) 
+
+Underway; plant targeted 
+for 2027 
+
+Grid hookup could slip to 2031 
+
+Small modular reactors 
+(SMRs) 
+
+None operating; first units  First-of-a-kind cost, fuel, and workforce 
+hurdles 
+early-to-mid 2030s 
+
+flow data centers are getting power, and the trade-off in each path. Sources are,footnoted in the text above. 
+
+Your electricity bill 
+
+The short version: nationally there is no clear evidence that data centers are pushing 
+up household electricity bills, but in a few fast-growing regions they may be adding 
+real cost, and the heart of the fight is now over who pays to expand the grid. 
+
+Using a lot of power is one thing. Making your monthly bill go up is another, and it is the 
+question people ask most. It is also where the research splits hardest, often along the 
+lines of who paid for it, so this section is worth reading slowly. 
+The backdrop is real: residential electricity prices rose about 11.5% in 2025, outpacing 
+inflation, according to the U.S. Energy Information Administration.rn When that 
+happens while data centers are going up nearby, people naturally connect the two. 
+But the studies do not all agree that data centers are the cause. Several find no clear 
+nationwide link. An analysis by the firm E3 for Virginia's legislature found no evidence 
+that data centers had shifted costs onto households in the world's largest data center 
+market." The Institute for Energy Research found no statistically significant connection 
+between how many data centers a state has and its electricity prices.i2 The logic is that a 
+grid's fixed costs get spread across more electricity sold, which can hold per-unit rates 
+down or even lower them. 
+Other evidence points to genuine pressure in specific regions. In the PJM grid (which 
+includes Virginia), E3's own work attributed about half of a recent jump in "capacity" 
+prices to load growth, with the rest coming from power-plant retirements and market 
+
+1OEESI, citing U.S. Energy Information Administration residential price data (2026): 
+https://www.eesi.orgiarticlesiviewidata-center-power-demands-are-contributing-to-higher-energy-bills 
+nE3 (Energy and Environmental Economics), summarizing its Virginia JLARC analysis (2026): 
+https://www.ethree.comielectricity-rate-driyers-data-center-role-2026/ 
+I2Independent Women's Forum, reporting on the Institute for Energy Research analysis (2026): 
+https://www.independentwomen.com/2026/03/25/new-studv-data-centers-arent-driving-up-electricity-prices/ 
+
+rules. Capacity prices reflect the cost of keeping enough generation on hand to meet 
+demand.13 In Georgia, residential prices climbed 41% in four years, and two utility 
+regulators lost their 2025 elections over it.14 
+
+Put plainly: there is not strong evidence that data centers are the primary driver of rising 
+household electricity prices nationwide, and in some markets a large customer that pays 
+its full share can actually spread fixed grid costs (transmission lines, power plants, 
+substations) across more usage, which holds per-unit rates down. But the picture gets 
+more complicated in fast-growing regional hubs such as the PJM region and Northern 
+Virginia, where rapid data center demand is contributing to new generation, 
+transmission, and capacity costs alongside other pressures like plant retirements, 
+inflation, and grid modernization. The debate is increasingly less about whether data 
+centers use enormous amounts of power, which no one disputes, than about who 
+ultimately pays for the infrastructure that growth requires. Read the competing studies 
+with their backers in mind: some of the reassuring ones were funded by the industry 
+(E3's later work was commissioned by Amazon),'5 while some of the sharpest alarms 
+come from advocacy groups and politicians. 
+
+Water use 
+
+Electricity is not the only resource a data center draws from the community. Most 
+also use water, and unlike electricity, water is intensely local, so even a modest 
+national total can strain one town's supply. The key distinction is between 
+withdrawal (how much water a site takes in) and consumption (how much does not 
+come back, mostly what evaporates). Consumption is the number that actually 
+shrinks local supply. 
+
+Large sites can consume 1 to 5 million gallons a day; five million gallons a day is roughly 
+the water use of a town of 10,000 to 50,000 people.'6 Google reported that its largest 
+U.S. site, in Council Bluffs, Iowa, withdrew about 3.9 million gallons and consumed 
+about 2.8 million gallons per day.17 Looking ahead, the Berkeley Lab report projects total 
+
+13E3, on the PJM capacity-price drivers (2026): https://www.ethree.comielectricity-rate-drivers-data-center-role-
+2026/ 
+141(ale Climate Connections, on Georgia rates and the 2025 utility-commission elections (2026): 
+https://yaleclimateconnections.org/2026/01/home-electricity-bills-are-skyrocketing-for-data-centers-not-so-
+
+15Amazon, describing the E3 study it commissioned (2025): 
+https://www.aboutamazon.cominewsisustainability/data-centers-electricity-bills-grid-oower-amazon 
+,6EESI, "Data Centers and Water Consumption": https://www,eesi.orgiarticlesiviewidata-centers-and-water-
+consumption  Nature Forward, "Data Centers and Water Use": https://natureforward.orgidata-centers-and-water-
+
+17MOST Policy Initiative, "Data Center Water Use," citing Google's 2025 disclosures (2026): 
+https://mostpolicyinitiative.orziscience-noteidata-center-water-use/ 
+
+direct U.S. data center water consumption could reach 38 to 73 billion gallons a year by 
+2028.'8
+
+I 1-5 million gallons a day 
+
+A large site's possible water use, roughly the daily water use of a town of 10,000 to 50,000 
+people. 
+
+Here is the piece most arguments leave out: data centers also use water indirectly, 
+through the power plants that supply their electricity. Coal and gas plants evaporate 
+large amounts of water to make steam.'9 For a center on a fossil-heavy grid, this hidden 
+water use can rival or exceed what the building uses on-site. So a facility that boasts 
+about low on-site water may still be driving heavy water use upstream. Solar and wind 
+power are the main exceptions, since they use very little water to run. Nuclear is not an 
+exception: it is low-carbon, but it relies on the same kind of steam cycle as fossil plants 
+and can be just as water-intensive. This is the first place that "where the power comes 
+from" really bites. 
+
+For perspective, individual Al use is tiny: researchers estimate about a water-bottle's 
+worth (roughly 0.16 gallons) per 30 minutes of AI use.2° The real concern is 
+concentration. Millions of gallons pulled from one local system, especially on hot 
+summer days when demand peaks and water is already tight, matter far more than the 
+per-query amount. Industry comparisons to golf courses, car washes, or farming are 
+sometimes accurate in raw volume, but they can mislead, because the issue is usually 
+that local peak-day strain, not the national total. 
+
+Water quality, wastewater, and aquifers 
+Most of this section has been about how much water disappears. Two related worries go 
+further: what the leftover water contains, and whether heavy pumping can drain 
+underground supplies. They are often blended together in public debate, but they are 
+separate issues. 
+
+Start with quantity. Where a data center draws from groundwater rather than a city pipe, 
+sustained pumping can lower the local water table and affect neighboring wells. In dry 
+regions such as Arizona, heavy reliance on aquifers has already contributed to wells 
+running low, which is one reason some operators are shifting to recycled water.21 The 
+
+,8MOST Policy Initiative, citing Shehabi et al. and LBNL projections (2026): 
+https://mostpolicyinitiative.orgiscience-note/data-center-water-use/ 
+19EESI, "Data Centers and Water Consumption," on power-plant water intensity: 
+https://www.eesi.orgiarticlesiviewidata-centers-and-water-consumption 
+2AIRSYS, citing a Global Water Intelligence estimate (2026): https://airsysnorthamerica.com/how-much-water-
+does-a-data-center-use/ 
+21Ecologix Environmental Systems, on aquifer reliance and well dry-ups (2025): 
+https://ecologixsystems.comiarticles/data-center-water-treatment-systems-in-theorv-and-in-practice  EESI, on 
+
+phrase "wipe out an aquifer" overstates what one facility does, but the underlying 
+concern is real: in a water-stressed area, many large users drawing on the same slow-to-
+refill aquifer can deplete it faster than rain and snowmelt restore it. 
+
+The second worry is what comes out. Evaporative cooling does not just consume water; it 
+concentrates whatever is left behind. As clean water evaporates, the minerals stay, so the 
+"blowdown" that gets bled off carries elevated dissolved solids, along with the biocides 
+and corrosion inhibitors used to keep the system clean and trace metals shed by the 
+equipment.'22 This discharge is regulated under the Clean Water Act and usually goes to a 
+sewer or a permitted outfall, but where treatment is weak or the volume overwhelms a 
+small system, it can degrade local water. The clearest recent example involves Amazon's 
+data centers in Morrow County, Oregon. Residents there sued over nitrate-contaminated 
+groundwater, and in 2026 Amazon agreed to pay $20.5 million to settle without 
+admitting fault, while denying that its facilities caused the problem. That case is a 
+cautionary one rather than a clear verdict: the contamination is decades old and stems 
+largely from agricultural and food-processing wastewater, with the data centers named 
+as one contributor among many.23 
+
+In May 2026 this became a national flashpoint when a Congress member held up jars of 
+brown water at a House hearing, saying it was the current drinking water in Morgan 
+County, Georgia, near a Meta data center, and pressing the EPA to investigate.24 It is 
+worth separating what is established from what is not. The residents' complaints and the 
+discolored water are real, and the EPA's water official agreed to look into them. But no 
+laboratory analysis, contaminant testing, or before-and-after study was presented with 
+the jars, and the agency did not concede that the data center was the cause.25 Cloudy 
+water can come from several sources, including sediment stirred up by heavy nearby 
+pumping or construction, aging private wells, or local geology, so as of this writing the 
+cause is genuinely unestablished. The episode captures a broader pattern in this debate: 
+
+aquifer exhaustion in water-stressed areas: https://www.eesi.orgiarticlesiviewidata-centers-and-water-
+consumption 
+22Nature Forward, on cooling-water pollutants such as biocides, corrosion inhibitors, and metals (2026): 
+https://natureforward.orgidata-centers-and-water-use/  KETOS, on cooling "blowdown" wastewater and Clean 
+Water Act permits (2026): https://ketos.coiai-data-centers-wastewater-discharge-and-the-grolArinkneed-for-
+effective-water-management 
+230PB, on the $20.5M Amazon settlement and decades-old nitrate contamination in the Lower Umatilla Basin 
+(March 2026): https://www.opb.orgiarticle/2026/0q/11/amazon-fine-northeast-oregon-boardman-nitrate-
+pollution-well/  Rolling Stone, on the settlement and Amazon's denial of fault: 
+https://www.rollingstone.comicultureiculture-newsiamazon-data-center-pollution-settlement-12:199ngic2/ 
+2,11-tuffPost, on the May 2026 House hearing and the Morgan County, Georgia jars: 
+https://www.huffpost.comientrvialexandria-ocasio-cortez-epa-data-centers-water-
+pollution  n  6a0f8ecfe413084cm2e4d9di  Common Dreams, on the exchange with the EPA: 
+https://www.commondreams.orginewsiaoc-data-centers-water 
+25Tom's Hardware, noting no lab analysis was presented with the jars and that discoloration can have several 
+causes (2026): https://www.tomshardware.comitech-industryibig-techimeta-data-center-allegedly-muddies-
+georgia-towns-drinldng-water-investigation-underway-epa-promises-immediate-investigation-after-
+congresswoman-brings-dirty-jars-of-water-to-hearing 
+
+vivid local claims that arrive well ahead of the slow, technical evidence needed to confirm 
+or rule them out. 
+
+Cooling systems, and the truth about "closed-loop" 
+
+How much water a center uses comes down to one design choice: how it gets rid of 
+heat. This is also where the most misused word in the whole debate lives, "closed-
+loop," so it is worth a little extra depth. 
+
+Cooling a data center always means deciding where the heat goes, and that creates a 
+three-way tradeoff between water, electricity, and local heat.26
+
+Cooling method 
+
+Water use 
+
+Electricity 
+
+Heat to local air 
+
+Evaporative (open) 
+
+High 
+
+Closed-loop / air-cooled 
+
+Low 
+
+Direct-to-chip / 
+immersion 
+
+Low 
+
+I.ow 
+
+Higher 
+
+Lower 
+
+Low 
+
+Higher 
+
+Varies 
+
+No cooling method is free; each shifts the burden amona water, electricity, and local heat. 
+
+"Closed-loop" sounds like it solves the water problem, and for on-site water it largely 
+does. But the heat and electricity have to go somewhere. The extra power it needs, if it 
+comes from a water-cooled fossil plant, simply moves the water use upstream rather 
+than ending it. So a closed-loop facility is not water-free. It has traded direct water use 
+for higher energy use and indirect water use. Critics argue the term is used to make sites 
+look greener than they are;27 engineers counter that, paired with clean power, closed-
+loop genuinely lowers total water draw. Both can be true depending on the grid behind it. 
+
+There is also a newer wrinkle: local heat. Because closed-loop and air-cooled systems 
+reject heat into the air instead of into evaporated water, that heat lands on the 
+surrounding neighborhood. In 2026, Arizona State University researchers published 
+what they describe as the first peer-reviewed field measurements of this effect, driving 
+sensors upwind and downwind of four Phoenix-area facilities. They found downwind air 
+temperatures running on average about 1.3 to 1.6°F warmer than upwind, with peaks up 
+to roughly 4°F, detectable as far as a third of a mile away. The cause is air-cooled 
+condensers that discharge air 14 to 25°F above the surrounding temperature, with one 
+
+26TechTarget, on cooling methods and noise (2024): 
+https://www.techtarget.comisearchdatacenteritip/Understanding-the-impact-of-data-center-noise-pollution 
+Bloom Energy, on closed-loop cooling (2025): https://www.bloomenergv.comiblogihow-data-centers-are-
+tackling-sustainabilitv-challenges/ 
+27Food & Water Watch, "7 Data Center Greenwashing Lies" (2026): 
+https:/ /www.foodandwaterwatch.orgi 2026/ 04/10 idata-center-greenwashing/ 
+
+facility's waste heat exceeding that of 40,000 homes.28 Two cautions keep this honest: it 
+is a single early study, and Phoenix is the hottest major U.S. metro, so it is closer to a 
+worst case than a typical one. Still, it is a concrete reminder that the water-saving cooling 
+option can create a local-heat cost in its place. 
+
+Up to -4°F warmer downwind 
+Air temperatures measured near Phoenix-area data centers ran on average 1.3 to 1.6°F 
+warmer downwind, with peaks around 4°F, up to a third of a mile away (2026). 
+
+The settled part is simple: no cooling method is free. Every design trades among water, 
+electricity, cost, upfront emissions, and local heat. The right choice depends heavily on 
+local climate, water supply, and the grid's energy mix. 
+
+Tax breaks and incentives 
+
+So far the costs have been physical: power, water, heat. There is a financial one that 
+is easy to miss, namely the deals communities strike to attract these centers in the 
+first place. States and towns often offer sales-tax exemptions on equipment, 
+property-tax abatements, and sometimes discounted power, all to win the project. 
+Because data centers create few permanent jobs once built, often only dozens to a 
+few hundred per facility once the large but temporary construction crew leaves, 
+residents reasonably ask whether the public gets a fair return. 
+
+The advocacy watchdog Good Jobs First, which opposes most of these subsidies, found 
+in an earlier study that incentives averaged about $1.95 million per job across 11 projects, 
+with one Apple deal in North Carolina reaching $6.4 million per job.29 Newer state data 
+tells a similar story. In Illinois, subsidized centers drew over $5.4 billion in investment 
+but created 339 jobs, about $1.4 million each.3° In Virginia, the data center sales-tax 
+exemption cost roughly $1 billion in 2024, about 81% of the state's entire economic-
+development incentive budget, and it is uncapped.3i Georgia, Virginia, and Texas each 
+
+28Arizona State University News, "Turning down the heat from data centers" (May 2026): 
+https://news.astLedu/2026(m8-environment-and-sustainability-turning-down-heat-data-centers  Peer-reviewed 
+study, ASME J. Eng. Sustainable Bldgs. and Cities (2026): 
+https:Hasmedizitalcollection.asme.orgisustainablebuildingsiarticleidoihomich.4071022 /121101c/ 
+29Data Center Dynamics, summarizing Good Jobs First, Money Lost to the Cloud: 
+https://www.datacenterdynamics.comieninewsiresearch-us-state-subsidies-pay-2-million-per-data-center-job/ 
+30Good Jobs First, "New Data on Data Center Subsidies" (Illinois figures): https://goodiobsfirst.orginew-data-on-
+data-center-subsidies-same-old-problems/ 
+3Good Jobs First, "Data Center Tax Abatements" (Virginia figures; uncapped exemption): 
+https://goodjobsfirst.orgiclata-center-tax-abatements-whv-states-and-localities-must-disclose-these-soaring: 
+revenue-losses/ 
+
+report losing $1 billion or more a year.32 Where states have actually measured the return, 
+they lose 52 to 91 cents on every dollar.33 
+
+Incentive example 
+
+Average across ii early projects 
+
+One Apple deal, North Carolina 
+
+Illinois subsidized centers 
+
+Virginia sales-tax exemption, 2024 
+
+Reported cost 
+
+-$1.95 million per job 
+
+$6.4 million per job 
+
+$5.4B invested, 339 jobs (-$1.4M each) 
+
+-$1 billion (81% of incentive budget) 
+
+Figures compiled by Good Jobs First, an advocacy u7atehdog that opposes most data center subsidies. Sources 
+are footnoted above. 
+
+Supporters make a fair counterpoint. The real payoff, they argue, is not jobs but a bigger 
+tax base, since large investments fund local budgets even at a discount, and incentives 
+are rarely the deciding factor in where a center lands anyway. In one industry survey, 
+only 3% of data center owners called tax credits their biggest siting factor; land and 
+power costs mattered far more.34 So the strongest criticism is not that every incentive is 
+bad, but that many are automatic, uncapped, permanent, and poorly disclosed, so the 
+public often cannot even see what a deal costs.35 On that last point about weak 
+disclosure, reviewers across the political spectrum tend to agree. 
+
+Transparency: NDAs, code names, and surprise projects 
+If tax deals are about whether the public gets a fair price, transparency is about 
+whether the public even knows a deal is happening. A common complaint is that 
+communities learn about a major data center late, sometimes only after local officials 
+have quietly worked on it for a year or more. 
+
+The reporting behind this is real and specific. Developers frequently ask local 
+governments to sign non-disclosure agreements (NDAs) while scouting sites, and they 
+often operate under code names and shell companies. In one Minnesota case, officials 
+referred to a Meta project as "Project Bigfoot" for over a year while the company worked 
+through a front company called Jimnist LLC, and a representative even used the alias 
+
+32Stateline, on states reporting $1B or more in annual losses (2026): https://stateline.org/2026/04/1c/many-
+states-dont-report-losses-from-data-center-tax-breaks-study-says/ 
+33Good Jobs First, "Data Center Tax Abatements," on measured returns of 52 to 91 cents on the dollar: 
+ht-tps://goodjobsfirst.orgidata-center-tax-abatements-why-states-and-localities-must-disclose-these-soaring= 
+revenue-losses/ 
+34Data Center Dynamics, citing a Mortenson survey of data-center owners: 
+https://www.datacenterdvnamics.comieninewsiresearch-us-state-subsidies-pay-2-million-per-data-center-job/ 
+35Good Jobs First, "Cloudy with a Loss of Spending Control" (2025): https://goodjobsfirst.orgicloudy-with-a-loss-
+of-spending-control-how-data-centers-are-endangering-state-budgets/ 
+
+12 
+
+"Ken Confidential."36 Investigations in Wisconsin and Michigan found multiple 
+communities had signed NDAs, in some cases approving rezoning without publicly 
+confirming the project was a data center.37 
+
+Companies and many officials offer reasons a fair reader can grant. During site selection 
+a developer is usually weighing several locations and wants to keep commercial plans 
+away from competitors, and confidentiality can also touch on security and permitting. 
+That was the stated reason one Michigan applicant gave for not proceeding without an 
+NDA.38 Microsoft, for its part, says it uses confidentiality agreements early on to protect 
+commercial information, address security, and comply with permitting, and officials note 
+that the final votes still happen in public meetings.39 
+
+A couple of points help keep the concern accurate. Signing an NDA is usually a 
+negotiated condition rather than something imposed on officials. A company makes 
+confidentiality part of the deal for continuing to consider a site, and local leaders weigh 
+accepting those terms against the risk of losing the project to another town. People can 
+reasonably disagree about whether officials should agree to that, but it is a tradeoff they 
+enter into, and describing it that way keeps the focus where it belongs. The deeper issue 
+is not that secrecy exists at all, since early-stage development is often quiet for any large 
+project. It is the mismatch between that secrecy and the stakes. These projects reshape a 
+community's land, power, water, taxes, and environment, yet residents may get little 
+time to weigh in before the decision has momentum. Tellingly, the same transparency 
+gap appears even where no NDA is signed. In DeForest, Wisconsin, officials worked on a 
+$12 billion proposal for months before announcing it.4c) So the strongest version of the 
+concern is about disclosure and timing, with NDAs as the sharpest example rather than 
+the whole story. In response, several states, including Wisconsin, have introduced bills to 
+ban or limit data center NDAs and require earlier public notice.41
+
+36Star Tribune, "NDAs, code names, and shell companies" (2025): https://www.startribune.com/ndas-code-
+
+37Wisconsin Watch, on at least four communities signing NDAs (2026): 
+https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/ 
+38Detroit News, on Michigan communities and NDA conditions (2026): 
+https://eu.detroitnews.comistoryinewsilocalimichigan/2026/02/08/data-center-details-shrouded-4-michigan-
+communities-sign-nondisclosure-pacts-agreements-ndas/8841;227007/ 
+39Detroit News, quoting Microsoft on its use of confidentiality agreements (2026): 
+https://eu.detroitnews.comistoryinewsilocalimichigan/2026/02/08/data-center-details-shrouded-4-michigan-
+communities-sign-nondisclosure-pacts-agreements-ndas/88415227007/ 
+40Wisconsin Watch, on the DeForest proposal (2026): https://wisconsinwatch.org/2026/01/wisconsin-data-
+center-secrecy-deals-nda-nondisclosure-agreement/ 
+41Wisconsin Watch, on state bills to limit data-center NDAs (2026): 
+https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreementi 
+
+Climate and emissions 
+
+Zoom out from the local site to the planet. A data center's climate impact is almost 
+entirely secondhand: the building itself emits little, but the power plants behind it 
+can emit a lot. This is "where the power comes from" again, now measured in carbon. 
+
+A 2024 analysis found the average data center in its sample had a carbon intensity of 
+about 548 grams of CO2 per kilowatt-hour, roughly 50% higher than the U.S. average of 
+369, mainly because many sit in fossil-heavy grids. In Virginia's PJM grid, about 61% of 
+electricity comes from fossil fuels.42 A growing number of sites also add on-site natural 
+gas turbines or diesel backup generators, which bring their own air pollution, such as 
+nitrogen oxides and fine particles, a local health concern separate from carbon.43 
+
+So the same building can be near carbon-free or quite dirty depending entirely on its 
+power source. One running on nuclear, hydro, solar, or wind has a small footprint; one 
+drawing from coal or gas has a large one. The International Energy Agency projects data 
+center emissions may level off around 2030 as grids get cleaner, though that is a forecast, 
+not a promise.44 
+
+One claim deserves a closer look. Companies often say they are "100% renewable." This 
+usually means they buy enough renewable-energy contracts or credits to match their 
+yearly use, not that clean power flows to the building every hour. Whether that actually 
+cuts emissions depends on whether the purchases add new clean generation to the grid 
+or just take credit for power that already existed. That is a genuine, unresolved debate 
+among experts, not a settled fact in either direction. 
+
+Local environment, land, and health 
+
+Back at ground level, the most visible change is often the simplest: a very large 
+building appears where something else used to be. A single hyperscale campus can 
+cover hundreds to over a thousand acres. 
+
+42EESI, "Data Center Energy Needs... Threatening the Climate," on carbon intensity and Virginia's grid: 
+htt  s  www.eesi or  articles  view  data-center-ener  -needs-are-u  endin 
+climate 
+43Norton Rose Fulbright and projectfinance.law, on on-site gas and diesel emissions (2025): 
+https://www.projectfinance.law/publications/2O25/augustidata-centers-and-natural-gasi 
+44Columbia Business School, citing the International Energy Agency outlook (2026): 
+https: / /business. columbia.edu/insights/ climate / race-power-data-centers 
+
+ower-  rids-and-threaten'n  -the-
+
+One proposed Virginia project was 740 acres with 12 buildings;45 another, a 2,1OO-acre 
+site near the Manassas battlefield, was blocked after local opposition.46 Building at that 
+scale can convert farmland or habitat, bring construction traffic for years, and require 
+new high-voltage transmission lines that reshape rural views. These effects are real, 
+local, and vary enormously by site. Dropping a center into an existing industrial park is 
+very different from carving one out of open farmland, which is the second place "where it 
+is built" matters most. 
+
+On health, it pays to be careful with the numbers. One 2025 model estimated that, by 
+2030, the air pollution tied to data centers, mainly from fossil power and on-site 
+generators, could contribute to roughly 1,300 premature deaths a year and about 820 
+billion in health costs.47 That is a single modeled projection, not a measured outcome, 
+and it leans heavily on assumptions about how the centers are powered. It is worth 
+knowing, but it should not be treated as an established fact. 
+
+Noise 
+
+Once a center is running, the complaint neighbors raise most is not abstract. It is the 
+sound. Data centers make noise from cooling fans that run constantly, backup diesel 
+generators tested periodically, and, increasingly, on-site gas turbines that run 
+nonstop. 
+
+Individual generators run around 85 to 100 decibels, and facilities run several at once; 
+for reference, sustained levels above about 70 decibels are considered the upper edge of 
+safe.48 The sound carries hundreds of feet. Much of the complaint is about low-frequency 
+hum and infrasound, which neighbors describe as a constant vibration and which is hard 
+to capture on a standard decibel meter, which in turn makes it hard to prove and harder 
+to regulate.49 
+That regulation gap is a big part of the problem. Many local noise rules were written 
+decades ago for things like loud parties, and some specifically exempt air-conditioning 
+
+45Cardinal News, on a proposed 740-acre Pittsylvania County campus (2025 to 2026): 
+https://cardinalnews.org/2025/01/12/data-centers-are-changing-the-landscape-heres-how-they-may-affect-
+rural-virginia/ 
+46U.S. News & World Report, on the blocked Manassas-area project (2026): 
+https://www.usnews.cominewsinational-newsiarticles/2026-04-28/living-in-hell-data-center-neighbors-
+gratmle-with-noise-air-pollution 
+47Environmental Health Project, citing a 2025 air-quality model (a single projection, not a measured outcome): 
+https://www.environmentalhealthproject.orgipostithe-dangers-of-data-centers 
+4sTechTarget, on generator decibel levels and safe-noise thresholds (2024): 
+https://www.techtarget.comisearchdatacenteritip/Understanding-the-impact-of-data-center-noise-pollution 
+49EESI, "Communities Are Raising Noise Pollution Concerns" (2026): 
+https://www.eesi.orgiarticlesiview/communities-are-raising-noise-pollution-concernsabout-data-centers 
+
+equipment, leaving residents with no enforceable remedy.5° Chandler, Arizona became 
+one of the first cities to write a data-center-specific ordinance requiring baseline noise 
+studies and annual testing.5' How bad the noise gets depends on the cooling type (liquid 
+cooling is quieter than fans), the power source (continuous gas turbines are far worse 
+than occasional backup generators), the distance to homes, and whether the operator 
+installs sound barriers. The worst cases are off-grid sites generating their own power 
+right next to quiet rural neighborhoods. 
+
+Light pollution 
+
+The other thing neighbors notice after dark is the light. Large sites use bright security 
+lighting all night and often glow visibly across the landscape. 
+
+Residents near rural sites describe data centers that "glow like a city of lights" and are 
+visible for miles, washing out dark night skies.52 The impact is much smaller where a 
+center sits near already-lit development like an airport or industrial zone,53 so once 
+again, siting drives the outcome. 
+All-night lighting can disrupt sleep, affect wildlife, and harm stargazing, concerns well 
+established for outdoor lighting in general, and much of it is preventable with shielded, 
+downward-pointing fixtures.54 That said, compared with electricity and water, light 
+pollution from data centers specifically is the least studied and least measured impact in 
+this guide, so the claims here rest more on resident reports than on hard data. 
+
+The bottom line: the genuine tradeoffs 
+
+Strip away the slogans and a few honest themes remain. 
+Almost every impact traces back to the two choices from the start of this guide, where 
+the power comes from and where the site is built, plus a third the cooling section 
+added: where the heat goes. Clean power shrinks the carbon and indirect-water 
+problems at once. Siting away from quiet neighborhoods and strained water systems 
+
+5,,EESI, on local noise ordinances not written for data centers (2026): 
+https://www.eesi.orgiarticlesiview/communities-are-raising-noise-pollution-concernsabout-data-centers 
+51Digital Emissions, on Chandler, Arizona's data-center noise ordinance (2026): 
+https://www.digitalemissions.org/insightsidata-center-noise-pollution 
+52Cardinal News, on visible nighttime glow in rural Virginia (2025 to 2026): 
+https://cardinalnews.org/2025/03/12/data-centers-are-changing-the-landscape-heres-how-they-may-affect-
+rural-virginia/ 
+53Cardinal News, on reduced impact near already-lit development (2025 to 2026): 
+https://cardinalnews.ors/2025/0A/12/data-centers-are-changinz-the-landscape-heres-how-thev-may-affect-
+rural-virginia/ 
+54National Park Service, on light pollution's effects and shielded lighting: 
+https://www.nps.goviobedilearninatureilightscape.htm 
+
+16 
+
+shrinks the noise, light, and water-stress problems. Cooling choices decide whether the 
+strain lands on water, the electric bill, or the local air. The very same kind of facility can 
+be a minor neighbor or a major one depending on these decisions. 
+
+Three choices decide a data center's local impact 
+
+Where the power 
+comes from 
+
+Where the site 
+is built 
+
+Where the heat 
+goes 
+
+Sets carbon, indirect 
+water, and bills 
+
+Sets noise, light, 
+land, water stress 
+
+Sets on-site water vs. 
+electricity vs. local heat 
+
+There is no free option, only tradeoffs. Saving water through closed-loop cooling usually 
+costs more electricity and adds local heat. Cheaper, faster power often means more 
+emissions and noise. Tax breaks may grow the tax base but rarely pay for themselves on 
+jobs alone. 
+
+It helps to separate what the evidence has settled from what it has not. 
+
+What is well established 
+Electricity demand is growing fast and is 
+concentrated in certain regions. 
+Large sites use significant water, much of it 
+indirectly through power plants. 
+Local effects (noise, light, land, heat, water 
+strain) are real and depend on design and 
+location. 
+
+What is still unsettled 
+
+How much these centers raise ordinary 
+household electricity bills. 
+How fast, and how clean, the buildout will 
+actually be. 
+Whether "100% renewable" claims hold up, and 
+the long-term local health and heat effects. 
+
+A plain scorecard of the evidence as it stands in 2026. 
+The most useful thing a community can do is ask site-specific questions (what power 
+source, what cooling, what disclosed cost, what distance to homes) rather than argue the 
+national averages. The averages hide the very decisions that determine the impact. And 
+asking those questions depends on the most basic thing of all: knowing the project exists 
+early enough to weigh in. 
+
+Sources & further reading 
+Specific figures are footnoted throughout. The publishers and reports drawn on most 
+heavily are listed below. 
+
+•  Lawrence Berkeley National Laboratory and the U.S. Department of Energy, 2024 
+
+Report on U.S. Data Center Energy Use 
+
+•  Environmental and Energy Study Institute (EESI), explainers on energy, water, 
+
+emissions, and noise 
+
+•  E3 (Energy and Environmental Economics) and the Institute for Energy Research, 
+
+electricity-rate analyses 
+
+•  MOST Policy Initiative, Nature Forward, Ecologix, KETOS, and Global Water 
+
+Intelligence, water use and water quality 
+
+•  Arizona State University and ASME, peer-reviewed data-center waste-heat field 
+
+study (2026) 
+
+•  Good Jobs First and Stateline, tax-incentive and disclosure analyses 
+
+•  Wisconsin Watch, Star Tribune, and Detroit News, investigations into NDAs and 
+
+project secrecy 
+
+•  HuffPost, Common Dreams, and Tom's Hardware, the May 2026 congressional 
+
+hearing on data centers and drinking water 
+
+•  Utility Dive, the American Bar Association, Davis Graham, and Reason, small 
+
+modular reactor status and hurdles 
+
+•  International Energy Agency (via Columbia Business School) and Norton Rose 
+
+Fulbright, emissions and power-sourcing 
+
+•  Cardinal News, U.S. News, the Environmental Health Project, and the National 
+
+Park Service, local land, health, noise, and light 
+
+Figures are best understood as ranges; definitions of "data center" and methods of measurement vary 
+across studies. This document explains the debate and does not advocate for or against data center 
+development. 
+
+18 
+
+

@@ -1,0 +1,123 @@
+Callaway Data Center Wish List
+DC 
+Wish List 
+Callaway County 
+CALLAWAY DC WISH LIST
+
+ENTITY: Industrial Park
+DESCRIPTION: New EOC / 911 Center
+PRIORITY: 1
+EST COST: $5,000,000.00
+TIMELINE: 1-time
+
+ENTITY: Fulton - YMCA
+DESCRIPTION: Community Investment - Pool Campaign
+PRIORITY: 2
+EST COST: $2,000,000.00
+TIMELINE: 1-time
+
+ENTITY: Callaway County Health Dept
+DESCRIPTION: Health Care Improvements
+PRIORITY: 3
+EST COST: $250,000.00
+TIMELINE: annual
+
+ENTITY: Sheriff / Jail
+DESCRIPTION: Equipment Improvements / Food Program Implementation
+PRIORITY: 4
+EST COST: $300,000.00
+TIMELINE: 1-time
+
+ENTITY: Fulton - Future Healthcare Solutions
+DESCRIPTION: *Future Healthcare* - Community Investment
+PRIORITY: 5
+EST COST: $5,000,000.00
+TIMELINE: 1-time
+
+ENTITY: Emergency Services
+DESCRIPTION: Sheriff/NC Fire/County EMS - Cover Construction Period
+PRIORITY: 6
+EST COST: $1,250,000.00
+TIMELINE: 1-time
+
+ENTITY: Courthouse
+DESCRIPTION: Roof Replacement / Windows / EMS CAD System
+PRIORITY: 7
+EST COST: $500,000.00
+TIMELINE: 1-time
+
+ENTITY: FADF / Callaway Chamber
+DESCRIPTION: Community Investments - Housing
+PRIORITY: 8
+EST COST: $250,000.00
+TIMELINE: annual
+
+ENTITY: Callaway Sewer District
+DESCRIPTION: Infrastructure Investments
+PRIORITY: 9
+EST COST: $200,000.00
+TIMELINE: annual
+
+ENTITY: Callaway Youth Expo
+DESCRIPTION: CYE program, bleachers
+PRIORITY: 10
+EST COST: $250,000.00
+TIMELINE: 1-time
+
+ENTITY: County Schools Investments
+DESCRIPTION: School Investment - Workforce, FFA, 4-H, (5 schools)
+PRIORITY: 11
+EST COST: $500,000.00
+TIMELINE: annual
+
+ENTITY: Municipal Investments
+DESCRIPTION: Community / Infrastructure Investment (5 municipalities)
+PRIORITY: 12
+EST COST: $1,250,000.00
+TIMELINE: annual
+
+ENTITY: County Fire Protection Investments
+DESCRIPTION: Community / Infrastructure Investment (5 FPDs)
+PRIORITY: 13
+EST COST: $500,000.00
+TIMELINE: annual
+
+ENTITY: Sheriff / Jail
+DESCRIPTION: Equipment Improvements
+PRIORITY: 14
+EST COST: $100,000.00
+TIMELINE: annual
+
+TOTAL 1-TIME INVESTMENT: $14,300,000.00
+TOTAL ANNUAL RECURRING INVESTMENT: $3,050,000.00
+
+NOT YET INCLUDED IN INITIAL ASK:
+
+ENTITY: Justice Center
+DESCRIPTION: Environmental updates
+EST COST: $250,000.00
+TIMELINE: 1-time
+
+ENTITY: Sheriff Office / Jail
+DESCRIPTION: Environmental updates
+EST COST: $250,000.00
+TIMELINE: 1-time
+
+ENTITY: Courthouse
+DESCRIPTION: Pay off bond debt Series 2020 (callable)
+EST COST: $9,500,000.00
+TIMELINE: 10-20YR
+
+ENTITY: Courthouse
+DESCRIPTION: Pay off bond debt Series 2021 (callable)
+EST COST: $9,850,000.00
+TIMELINE: 10-20YR
+
+ENTITY: Courthouse
+DESCRIPTION: Pay off bond debt Series 2022 (callable 4/15/2027)
+EST COST: $9,000,000.00
+TIMELINE: 10-20YR
+
+Assumptions:
+Ambulance and Fire District will opt out of Chapter 100 abatement 
+25 year term - 85% abatement on real / 85% personal property abatement. 

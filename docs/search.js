@@ -6,7 +6,7 @@ fetch('data/documents.json')
     docs = data;
     for (const d of docs) {
       try {
-        d.text = await (await fetch('text/' + d.filename.replace('.pdf', '.txt'))).text();
+        d.text = await (await fetch(encodeURI('text/' + d.requester + '/' + d.filename.replace('.pdf', '.txt')))).text();
       } catch { d.text = ''; }
     }
     idx = lunr(function () {
@@ -37,7 +37,7 @@ function run() {
   const q = document.getElementById('search').value.trim();
   const ag = document.getElementById('agency').value;
   const tp = document.getElementById('topic').value;
-  let hits = q ? idx.search(q).map(h => docs.find(d => d.id === h.ref)) : docs;
+  let hits = q ? idx.search(q).map(h => docs.find(d => String(d.id) === h.ref)) : docs;
   if (ag) hits = hits.filter(d => d.agency === ag);
   if (tp) hits = hits.filter(d => d.topic === tp);
   render(hits, q);

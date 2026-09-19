@@ -25,4 +25,5 @@ Callaway Data Watch is a grassroots community transparency and accountability or
 
 ## Questions or corrections
 
-If you notice an error in the metadata or have a records request you'd like included, contact CDW.
+If you notice an error in the metadata or have a records request you'd like included, contact CDW at callawaydatawatch@gmail.com or you can find us on our page www.facebook.com/groups/callawaydatawatch/
+.
